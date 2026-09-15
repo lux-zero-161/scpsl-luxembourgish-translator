@@ -1,4 +1,4 @@
-STËMM-VOLUME
+STËMM-LAUTSTÄERK
 Jo
 FORCÉIERT START
 SCP-106 RE-CONTAINMENT\nPROZEDUR OVERRIDE
@@ -8,10 +8,10 @@ Abbriechen
 I N V E N T A R
 HELLEGKEET
 ASTELLUNGEN
-DISCONNECT
+TRENNEN
 ALPHA-WARHEAD ASS DESAKTIVÉIERT
 ZOUGANG VERWEIGERT
-VOICE CHAT
+STËMM-CHAT
 INVENTAR IWWERLAASCHT
 Mausempfindlechkeet
 HACKING
@@ -25,7 +25,7 @@ Basisoptiounen. Voll Lëscht vun den Astellungen am Menü.
 Waart op Spiller
 ZESUMMEFASSUNG
 VIRUFÄEREN
-HAUPTVOLUME
+HAAPTLAUTSTÄERK
 verbonne
 Dir sidd als Wëssenschaftler geflücht a sidd den MTF-Eenheeten bäigetrueden.
 Dir sidd als Class-D geflücht a sidd der Chaos Insurgency bäigetrueden.
@@ -40,10 +40,10 @@ RONN FÄERT A: <color=yellow>{0}</color>s
 RONNSTART ASS <color=#FF5050>PAUSÉIERT</color>
 ZIELSENS.-REDUKTIUN
 Dréckt [key] fir de Wurf ofzebriechen.
-ADS Toggle
+ADS um-/ausschalten
 Spectateur-Chat muten
-Geronreduktioun aktivéieren (recommandéiert)
+Hannergrondgeräischer reduzéieren (recommandéiert)
 Automatesch (System-Standard)
 Kee Mikrofon erkannt!
 INPUT-APPARAT
-Dréckt [key] fir d'Käerzen auszepaken.
+Dréckt [key], fir d'Käerzen auszepaken.

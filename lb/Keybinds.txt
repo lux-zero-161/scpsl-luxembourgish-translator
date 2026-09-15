@@ -5,7 +5,7 @@ Interagéieren
 Inventar
 Nei laden
 Sprint
-Voice Chat
+Stëmm-Chat
 Schläichen
 No vir bewegen
 No hannen bewegen
@@ -13,9 +13,9 @@ No lénks bewegen
 No riets bewegen
 Spillerlëscht
 Charakterinfo
-Remote Admin
+Fernverwaltung
 Täscheluucht em Schalten
-Alt Voice Chat
+Alternativen Stëmm-Chat
 Noclip
 Spillkonsole
 Zougangskaart-Tastaturkürzel
@@ -30,10 +30,10 @@ Noclip Niwwel em Schalten
 Granat-Tastaturkürzel
 Pausemenü
 Debug-Log
-Free Look Modus
+Fräi-Ëmkuck-Modus
 Dier spären
 All Späeren léisen
 Blackout
-Lockdown
+Spärung
 Ping
-Breach Scanner
+Ausbroch-Scanner

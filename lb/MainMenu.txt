@@ -13,15 +13,15 @@ CREDITEN
 SPILL VERLOOSSEN
 Vollbildmodus
 BILDSCHIRMASTELLUNGEN
-FARB CORRECTION
+FARWKORREKTUR
 IP-Adress aginn...
-SCREEN RESOLUTION
+BILDSCHIRMOPLÉISUNG
 SPILLEN
 PIXEL LICHT COUNT
 SCHIMMERTYP
 SCHIMMEREN
 SPILL ERSCHAFEN
-Post-Processing-Astellungen änneren. Dës Astellungen beaflossen d'Performance normalerweis net; et gëtt recommandéiert d'Standardwäerter ze loossen.
+Nobeaarbechtungsastellunge änneren. Dës Astellungen beaflossen d'Leeschtung normalerweis net; et gëtt recommandéiert, d'Standardwäerter ze loossen.
 Luuchterrechnungsmodus:\nWann aus, gëtt d'Grafikqualitéit bedeitend reduzéiert. Dës Astellung auszeschalten gëtt nëmme fir Computeren mat niddreger Leeschtung recommandéiert.
 V-SYNC
 VERBANNEN
@@ -29,7 +29,7 @@ QUALITÉITSASTELLUNGEN
 Schimmervirléiften änneren. Dës Slider op niddregere Wäerter ze setzen kann d'Spillflüssegkeet erhéijen.
 HAUPTMENÜ
 LUUCHT RENDEREN
-MOTION BLUR
+BEWEGUNGSONSCHÄRFT
 SCHIMMERDISTANZ
 DETAILER
 3. SCP-914
@@ -38,9 +38,9 @@ WARNUNG
 Verfügbar Server iwwerbléien
 Net méi weisen
 Wéi wëllt Dir Iech verbannen?
-SERVER-BROWSER
+SERVER-IWWERSIICHT
 OKAY
-MATCH FANNEN
+RONN FANNEN
 2. Waffe benotzen
 Mir benotzen Discord als Forum. Kee Installatioun néideg.\n(Klickt op de Logo fir bäizetrieden)
 Standardmässig riicht de Server dech um lokale Netzwierk op.\nÄr Frënn brauchen déi direkt IP-Adress fir sech ze verbannen.\nWann Dir en ëffentleche Server opriichte wëllt, wielt LocalAdmin.exe an follegt d'Instruktiounen.\nWann Dir Froen hutt, kontaktéiert w.e.g. eisen technesche Support (Link am Haaptmenü).
@@ -48,8 +48,8 @@ Standardmässig riicht de Server dech um lokale Netzwierk op.\nÄr Frënn brauch
 Déi presentéiert Spill ass nach an enger öffentlecher Beta.\nDir kënnt Verbindungsproblemer a vill aner Bugs erliewen.\nDen aktuellen Zoustand reflektéiert net déi final Versioun.
 4. (méi Tutorials kommen nach)
 DIREKT VERBANNEN
-TECH-SUPPORT / FORUM
-TOUNVOLUME
+TECHNESCH ËNNERSTËTZUNG / FORUM
+TOUNLAUTSTÄERK
 Gitt d'IP-Adress vum spezifesche Server an.
 DOWNLOADEN
 KENG SERVER VERFÜGBAR
@@ -61,20 +61,20 @@ FPS-Limit funktionnéiert net, wann vSync aktivéiert ass!
 Standard setzen
 Mir benotzen Steam Discussions als Forum. (Klickt op de Logo ënnendrënner fir de Forum opzemaachen)
 AUDIOASTELLUNGEN
-MAINVOLUME
+HAAPTLAUTSTÄERK
 MENÜMUSIK
-VOICE CHAT
-SOUNDEFFEKTER
-GAMEPLAY-OPTIOUNEN
+STËMM-CHAT
+TON-EFFEKTER
+SPILLMECHANIK-OPTIOUNEN
 SCHNELL INTRO FADE
-Den Klass-Intro-Text fade géigesäiteg vill méi séier aus.
-SCP-079 - VIEW MODUS TOGGLE
+Den Introtext vun der Klass verschwënnt vill méi séier.
+SCP-079 - SIICHTMODUS UM-/AUSSCHALTEN
 Dréckt eemol fir tëscht de Kamera-Modi ze wiesselen.
-SCP-079 - POST-PROCESSING
-Wann desaktivéiert, ginn d'Kamaraeffekter staark reduzéiert.
+SCP-079 - NOBEAARBECHTUNG
+Wann desaktivéiert, ginn d'Kameraeffekter staark reduzéiert.
 KAPP-BEWEGUNG
 Aktivéiert d'First-Person Kamera-Beweegung während der Bewegung.
-TOGGLE SPRINT
+SPRINT UM-/AUSSCHALTEN
 Sprinten schalt un an aus, anstatt gehalen ze ginn.
 SEPARATEN ARTIFIZIELLEN HP-BAR
 Gëtt artifiziell HP en eegene Gesondheetsbalke, anstatt en Overlay.
@@ -83,19 +83,19 @@ RICH PRESENCE
 Wann aktivéiert, gëtt Äre Status op Discord/Steam ugewisen.
 EXAKT HP-WÄERT WEISEN
 Weist exakt HP un, anstatt just de Prozentsaz.
-PUBLIC LOBBY
+ËFFENTLECH LOBBY
 Wann aktivéiert, kënnen Är Steam-Frënn bäitrieden ouni Erlaabnis.
 IP VERSTOPPEN
 Wann aktivéiert, gëtt all IP an der Client-Konsole net ugewisen.
-TOGGLE SEARCH
+SUCHEN UM-/AUSSCHALTEN
 Beim Ophiewen vu Géigestänn ass keng gehalen Tast néideg; dréckt nach eng Kéier fir ofzebriechen.
 Gëtt mëll Schatten op Ecken an enken Beräicher, fir de Modeller méi Déift ze ginn.
 Gëtt der Ëmwelt méi Déift op Käschte vun enger héijer Leeschtung.
 Gëtt der Luucht méi Déift, andeems en Glanz baséiert op der Luuchtintensitéit applizéiert gëtt.
-Toggle fir Ënnertitelen fir Cassie-Ukënnegungen ze weisen.
+Um-/Ausschalter fir Ënnertitele vun de CASSIE-Ukënnegungen ze weisen.
 Blénkt d'Taskbar, wann Dir spawnen, während d'Spill net am Fokus ass.
 Glätt Linnen an entfernt visuell Verzerrungen.
-Synchroniséiert d'In-Game-Framerate mat der Erfrëschungsrate vun Ärem Monitor fir Screen-Tearing ze stoppen.
+Synchroniséiert d'Bildrate vum Spill mat der Erfrëschungsrate vun Ärem Monitor, fir Bildrësser ze vermeiden.
 Projektéiert Texturen wéi Kugellächer oder Blutsprëtzer.
 Donkelmodus em Schalten
-Toggle fir e puer hell Elementer op hir donkel Theme-Versiounen ze wiesselen.
+Um-/Ausschalter, fir e puer hell Elementer op hir donkel Theme-Versiounen ze wiesselen.

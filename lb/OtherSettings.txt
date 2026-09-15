@@ -6,7 +6,7 @@ Rich Presence
 Erlaabt Plattformen (Steam an Discord) méi Informatioun iwwer Ären aktuellen In-Game-Status unzeweisen.
 Steam Lobby Visibilitéit
 Definéiert wéi aner Benotzer iwwer Äert Steam-Profil dem Server kënne bäitrieden.
-Voice Chat Privatsphär-Astellungen
+Privatsphär-Astellunge vum Stëmm-Chat
 Profil op der Spillerlëscht
 Erlaabt Spiller, Äert Steam-Profil ze kucken, andeems se op eng Ikone an der In-Game-Spillerlëscht klicken.
 Ugewisen

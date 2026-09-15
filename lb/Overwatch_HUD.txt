@@ -1,5 +1,5 @@
-Dréckt {0} fir den Voice Channel Selector opzemaachen.
-Voice Channel Selector
+Dréckt {0}, fir d'Stëmmkanal-Auswiel opzemaachen.
+Stëmmkanal-Auswiel
 Proximitéit
 Radio
 SCP-Chat
@@ -7,11 +7,11 @@ Ennbildschierm
 Intercom
 Mimikry
 SCP-1576
-<i>Spatial Audio</i>
-<i>Behandelt spatial Audio an der Proximitéit. Wann desaktivéiert, gëtt jidderee gehéiert, ouni Distanz oder Radios ze berücksichtegen.</i>
+<i>Raumklang</i>
+<i>Berücksichtegt de Raumklang an der Proximitéit. Wann desaktivéiert, gëtt jidderee gehéiert, ouni Distanz oder Radioen ze berücksichtegen.</i>
 <i>Benotzt vun all Spiller, wann d'Ronn eriwwer ass.</i>
 Menü-Auswiel
-Voice Chat
+Stëmm-Chat
 Spillerinfo
 Hitreg-Log
 Debug-Spueren

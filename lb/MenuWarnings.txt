@@ -1,6 +1,6 @@
 WARNUNG
 OKAY
 <b>Intel Grafik</b> gouf erkannt, déi <b>net ënnerstëtzt</b> ass.\nEt gëtt <b>recommandéiert</b>, eng <b>nicht-integreiert</b> Grafikkart ze benotzen.\nD'Spill kéint mat der aktueller Konfiguratioun <b>dacks crashen</b>.
-En wichteg System-Update, deen vum Voice Chat néideg ass, kann net fonnt ginn. Gitt w.e.g. sécher, datt Är Windows komplett aktualiséiert ass, soss funktionnéiert d'Spill vläicht net richteg. Wann dëse Problem weider besteet, kontaktéiert w.e.g. eis Tech-Support-Team fir weider Hëllef
+E wichtege System-Update, deen vum Stëmm-Chat gebraucht gëtt, kann net fonnt ginn. Gitt w.e.g. sécher, datt Äert Windows komplett aktualiséiert ass, soss funktionéiert d'Spill vläicht net richteg. Wann dëse Problem weider besteet, kontaktéiert w.e.g. eis technesch Ënnerstëtzung fir weider Hëllef.
 Netzwierkfeeler bei der Verbindung zum Zentralserver erkannt.\n\nAlternativ Kommunikatiounsmethod aktivéiert.\nUfroe kënnen méi laang daueren.
 <size=11>Net méiglech, sech mam Zentralserver iwwer d'alternativ Method ze verbannen.\nZréck op normal Verbindungsmethod gewiesselt.\n\nWann Authentifikatiounsfeeler weider bestinn:\nKontaktéiert w.e.g. Northwood Support.</size>

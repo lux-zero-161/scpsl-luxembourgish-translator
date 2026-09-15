@@ -1,8 +1,8 @@
-Volume
-Master
-Voice Chat
+Lautstäerkt
+Haaptlautstäerkt
+Stëmm-Chat
 Soundeffekter
-Mikrofonopfang
+Mikrofonaufnahme
 Apparat
 Privatsphär-Astellungen
 Ajustéieren
@@ -11,18 +11,18 @@ Musek
 Interface
 Ofstelltheema
 Geron-Ënnerdréckung
-Reduzéiert ongewollten Hannergeron, deen vun Ärem Mikrofon opgefaange gëtt. Et ass staark recommandéiert dës Optioun aktiv ze loossen; et sollt keen Impakt op d'Qualitéit vun Ärer Stëmm hunn.
-Sproochen (Voice Lines)
-SCP-127 Stëmm-Volume
-SCP-3114 Stëmm-Volume
+Reduzéiert ongewollten Hannergrondgeräischer, déi vun Ärem Mikrofon opgeholl ginn. Et gëtt staark recommandéiert, dës Optioun aktiv ze loossen; si sollt d'Qualitéit vun Ärer Stëmm net beaflossen.
+Sproochen (Stëmmlinnen)
+SCP-127 Stëmm-Lautstäerkt
+SCP-3114 Stëmm-Lautstäerkt
 Audioeffekter
-Voice Chat Distant Reverb
-Kontrolléiert wéi gedämpft an reverbéiert de Proximity Voice Chat gëtt, wat Dir méi wäit ewech vun der Quell sidd.
-Default
-Méi Reverb
-Minimal Reverb
+Distanz-Nohall vum Stëmm-Chat
+Kontrolléiert, wéi gedämpft an nohallend de Stëmm-Chat gëtt, wat Dir méi wäit vun der Quell ewech sidd.
+Standard
+Méi Nohall
+Minimalen Nohall
 Lautsprecheur-Simulatioun fir Ukënnegungen
 Kontrolléiert ob P.A.-System Ukënnegungen (wéi C.A.S.S.I.E.) iwwer den nooste Lautsprecher oder global gespillt ginn.
 Juegdthemen
-Soundeffekter mute
-Soundeffekter beim Spektéieren
+Toun-Effekter stomm schalten
+Toun-Effekter beim Spektéieren

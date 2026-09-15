@@ -24,36 +24,36 @@
 25~Héichexplosiv Granat~Eng héichexplosiv Granat mat bedeitendem Schued. Detonéiert no enger kuerzer Verzögerung nodeems se geworf gouf.
 26~Flashbang-Granat~Blann an desorientéiert Är Feinden. Detonéiert no enger kuerzer Verzögerung nodeems se geworf gouf.
 30~COM-18
-31~SCP-018~Superball mat der Fäegkeet, mat extremem Effizienz ze bounzen. Zudrëttlech Ricochet bei héijer Geschwindegkeet.~Super Ball
+31~SCP-018~E Superball mat der Fäegkeet, mat aussergewéinlecher Effizienz ze sprangen. Zousätzlech Ricochet bei héijer Geschwindegkeet.~Super Ball
 32~SCP-268~Wann gedroen, mécht dech temporär onsichtbar, ausser et gëtt duerch all Benotzerinteraktioun ënnerbrach.~Cap of Neglect
-33~Adrenalin~Gëtt e temporäre Gesondheetsboost an e kuerzen Ausbroch vu Stamina.
+33~Adrenalin~Gëtt e temporäre Gesondheetsboost an e kuerzen Ausbroch vun Ausdauer.
 34~Schmerzmittel~Stellt d'Gesondheet lues a lues iwwer d'Zäit erëm hier.
-35~Mënz~Dir sidd net sécher firwat Dir dëst mat Iech zeréckbrued wollt...
+35~Mënz~Dir sidd net sécher, firwat Dir dës Mënz mat Iech zeréckbrénge wollt...
 36~Liicht Rëschtung
 37~Kampfrëschtung
 38~Schwéi Rëschtung
 39~.44 Revolver
 40~AK
 41~Flinte
-42~Tut Bombecken~En Tut mat de folgende Bombecken:
-43~SCP-2176~Ären eegene Ghostlight! Virsiicht: Fragil. Stéiert Elektronik wann et brécht.~Ghostlight™
-44~SCP-244-A~Eng antik Vas, déi sech gefruer ufällt. Erstellt eng grouss Wollek aus äisegem Niwwel wann se opgestallt gëtt.~Ice Fog Jar
-45~SCP-244-B~Eng antik Vas, déi sech gefruer ufällt. Erstellt eng grouss Wollek aus äisegem Niwwel wann se opgestallt gëtt.~Ice Fog Jar
-46~SCP-1853~Erhéicht d'Geschichtlechkeet an d'Waffehandhabung wann Äert Liewen a Gefor ass.~Performance Enhancer
+42~Tut Bombecken~En Tut mat de folgende Séissegkeeten:
+43~SCP-2176~Äert eegent Geeschterliicht! Virsiicht: Fragil. Stéiert Elektronik, wann et brécht.~Ghostlight™
+44~SCP-244-A~Eng antik Vas, déi sech gefruer ufillt. Si erstellt eng grouss Wollek aus äisegem Niwwel, wann se opgestallt gëtt.~Ice Fog Jar
+45~SCP-244-B~Eng antik Vas, déi sech gefruer ufillt. Si erstellt eng grouss Wollek aus äisegem Niwwel, wann se opgestallt gëtt.~Ice Fog Jar
+46~SCP-1853~Erhéicht d'Geschécklechkeet an d'Waffehandhabung, wann Äert Liewen a Gefor ass.~Leeschtungsverbesserer
 47~3-X Partikel-Disruptor~Eng komesch Waff, déi mächteg, desintegréierend Energiebalke schéisst.
 48~COM-45
-49~SCP-1576~Erlaabt temporär Kommunikatioun mat den Doudegen. Kann nodeems e bëssen Zäit vergaangen ass erëm benotzt ginn.~Edisonian Afterlife Communicator
-50~Jailbird~E komeschen, onstablee Baton, dee géint Ziler geschwong oder opgeluede ka ginn fir massiven Schued ze verursaachen.
-51~Anti-Cola~D'Resultat vun engem Experiment mat SCP-914. Gutt fir Är Gesondheet, schlecht fir Är motoresch Fäegkeeten. Ret Äert Liewen an enger Knéiflääsch.~selttoB aloC
+49~SCP-1576~Erlaabt temporär Kommunikatioun mat den Doudegen. Kann nodeems e bëssen Zäit vergaangen ass erëm benotzt ginn.~Edisonesche Kommunikator fir d'Liewen nom Doud
+50~Jailbird~E komeschen, instabile Baton, dee géint Ziler geschwonge oder opgeluede ka ginn, fir massive Schued ze verursaachen.
+51~Anti-Cola~D'Resultat vun engem Experiment mat SCP-914. Gutt fir Är Gesondheet, schlecht fir Är motoresch Fäegkeeten. Rett Äert Liewen an enger Knéifläsch.~selttoB aloC
 52~FR-MG-0
 53~A7
-54~Laterne~Eng klassescht Uelegluucht, mat dem Numm "Daniel" gravéiert.
-55~SCP-1344~Eng modifizéiert Brëll, déi Iech erlaabt d'Positiounen vun anere Spiller duerch Maueren ze gesinn. Eemol gedroen, däerfen se ni méi ewechgeholl ginn!~Eye-Catching Goggles
+54~Laterne~Eng klassesch Uelegluucht, mat dem Numm "Daniel" gravéiert.
+55~SCP-1344~Eng modifizéiert Brëll, déi Iech erlaabt, d'Positioune vun anere Spiller duerch Maueren ze gesinn. Eemol ugedoen, däerf se ni méi ewechgeholl ginn!~Opfälleg Schutzbrëll
 56~Schneebull
 57~Kuel
 58~Kuel?
 59~Kassettespiller?~Enthält eng onbeschriftte Kassett. Spillt se w.e.g. net of. W.e.g.
-61~Surface-Zougangspass~Eenzeg-Motif Zougangspass fir Ausgängspaarten opzemaachen.
+61~Surface-Zougangspass~Eng Zougangspass nëmme fir d'Ausgängspaarten op der Uewerfläch opzemaachen.
 62~SCP-127
 68~SCP-1509~Eng Kloewaff, déi moderéierte Schued verursaacht. E Mënsch domat ëmzebréngen erweckt en Alliéierten erëm.~The Blade of Rebirth
-69~SCP-021-J~Eng düster, geféierlech Energie straalt aus dem Waasserfläsch ewech. Dir kritt d'Gefill, datt et vläicht onméiglech ass se anzegrenzen. Traust du deet, et ze konsuméieren?~Evil :(
+69~SCP-021-J~Eng düster, geféierlech Energie straalt aus der Waasserfläsch. Dir kritt d'Gefill, datt et vläicht onméiglech ass, se anzespären. Trauts du dech, se ze konsuméieren?~Evil :(

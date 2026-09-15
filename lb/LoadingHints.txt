@@ -1,20 +1,20 @@
 Dir kënnt e Spiller disarméieren, andeems Dir mat hinnen interagéiert, während Dir eng Waff hält.
-Et gëtt véier Haaptzonen an der Facility: Light Containment, Heavy Containment, Entrance a Surface.
-Wëssenschaftler a Class-D musse bis op d'Surface kommen fir ze flüchten.
+Et gi véier Haaptzonen an der Anlag: Liicht Verwahrung, Schwéier Verwahrung, Entrée an Uewerfläch.
+Wëssenschaftler a Class-D mussen op d'Uewerfläch kommen, fir ze flüchten.
 Facility-Wuechten si kierperlech schwaach, hunn awer Kraaft an der Zuel. Bleift zesummen!
-Är Stamina ass eng wäertvoll Ressource, haalt e puer fir Notfäll zeréck!
-D'Entrance-Zon huet zwou Paarten, déi Zougank op d'Surface erlaben. Dir braucht eng Zougangskaart fir se opzemaachen.
+Är Ausdauer ass eng wäertvoll Ressource, haalt e bëssen fir Noutfäll zeréck!
+D'Entrée-Zon huet zwou Paarte mat Zougang op d'Uewerfläch. Dir braucht eng Zougangskaart, fir se opzemaachen.
 D'Benotzung vun engem Lift ass e séieren an einfache Wee fir déi meescht SCPs ze flüchten.
-Geflücht Class-D treten der Chaos Insurgency bei, während geflücht Wëssenschaftler MTF ginn.
-Adrenalin kann benotzt ginn, fir Är Stamina direkt ze erfrëschen an Iech e Virdeel am Kampf ze ginn.
+Geflüchte Class-D trieden der Chaos Insurgency bäi, wärend geflüchte Wëssenschaftler der MTF bäitrieden.
+Adrenalin kann Är Ausdauer direkt erfrëschen an Iech e Virdeel am Kampf ginn.
 Radios hunn véier Reichwäitastellungen. Wat d'Reichwäit méi laang ass, desto méi séier entleert sech d'Batterie.
-Tesla-Gitter sinn elektresch Geforen, déi an der ganzer Heavy Containment Zone ze fannen sinn. Gitt virsiichteg vir!
-Mobile Task Force Eenheeten a Chaos Insurgenten kommen op entgéintgesate Enden vun der Surface Zone un.
-Den Alpha-Warhead bréngt alles am Inneren vun der Facility ëm, wann en detonéiert. En kann vun der Surface Zone aus aktivéiert ginn.
-D'Detonatiounssequenz vum Alpha-Warhead kann aus sengem Raum an der Heavy Containment ofgebrach ginn.
-Den Intercom-Raum an der Entrance Zone kann benotzt ginn, fir eng Stëmmmeldung un all Spiller ze schécken.
+Tesla-Gitter sinn elektresch Geforen, déi an der ganzer Zone vun der Schwéierer Verwahrung ze fannen sinn. Gitt virsiichteg vir!
+Eenheete vun der Mobile Task Force a Chaos-Insurgente kommen un entgéintgesate Säite vun der Uewerflächenzon un.
+D'Alpha-Sprengkopp bréngt alles an der Anlag ëm, wann se detonéiert. Se kann vun der Uewerflächenzon aus aktivéiert ginn.
+D'Detonatiounssequenz vun der Alpha-Sprengkopp kann aus hirem Raum an der Schwéierer Verwahrung ofgebrach ginn.
+Den Intercom-Raum an der Entrée-Zon kann benotzt ginn, fir eng Stëmmmeldung un all Spiller ze schécken.
 Dir kënnt Géigestänn geheien ('T' standardmässig). Dëst kann benotzt ginn, fir Zougangskaart-Dieren op Distanz opzemaachen oder Glas ze briechen.
-D'Light Containment Zone gëtt no 15 Minutten zougespaart; all jiddereen, deen dobannen bleift, gëtt ëmbruecht. Flücht, während Dir kënnt!
+D'Zone vun der Liichter Verwahrung gëtt no 15 Minutten zougespaart; jiddereen, deen dobannen bleift, gëtt ëmbruecht. Flücht, soulaang Dir kënnt!
 Maximéiert Äre Virdeel, andeems Dir Är Waffenattache un d'Situatioun ugepasst.
 Wat méi Attache eng Waff huet, desto méi schwéier ass se. Dëst beaflosst de Staminaverbrauch an d'Bewegungsgeschwindegkeet.
 Schalldämpfer dampen net nëmme Schëss, si verstoppen och de Muzzle-Flash.
@@ -26,7 +26,7 @@ Dréckt a halt d'Reload-Tast fir eng Waff ze entlueden, wat seng Munitioun zu Ä
 Chaos Insurgency Waffe si mächteg, awer hir Munitioun spawnéiert net an der Facility. Maacht se zielen.
 Granate kënne benotzt gi fir Dieren ze zerstéieren.
 Granate kënnen mat manner Kraaft mat der rietser Maustast geworf ginn.
-D'Micro H.I.D. kann déi meescht SCPs ganz séier ëmbréngen, huet awer eng begrenzt Energy-Versuergung. Benotzt se virsiichteg!
+D'Micro H.I.D. kann déi meescht SCPs ganz séier ëmbréngen, huet awer eng begrenzten Energieversuergung. Benotzt se virsiichteg!
 D'Micro H.I.D. braucht ongeféier fënnef Sekonne Laden, ier se schéisse kann.
 D'riets Maustast ze halen hält d'Micro H.I.D. am bereete Zoustand fir ze schéissen; drainért lues Energie.
 D'Micro H.I.D. ass ganz laut beim Laden. Gitt sécher, se ze benotzen, während Är Ziler net fortlafe kënnen.

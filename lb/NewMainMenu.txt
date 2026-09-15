@@ -19,7 +19,7 @@ Keng Whitelist
 Video
 Audio
 Kontrollen
-Gameplay
+Spillmechanik
 Aneres
 Fënstermodus
 Exklusiv Vollbild
@@ -34,25 +34,25 @@ Decals
 Schatten
 Schattenopléisung
 Schatten Distanz
-Motion Blur
-Farbkorrektur
+Beweegungsonschärft
+Faarfkorrektur
 Anti-Aliasing
-Luucht renderen
-Master-Volume
+Luucht-Rendering
+Haaptlautstäerkt
 Soundeffekter
-Voice Chat
+Stëmm-Chat
 Menümusik
-Interface-Volume
+Interface-Lautstäerkt
 Menüthema
 Schnell Intro Fade
 Kapp-Bewegung
-Toggle Sprint
-Exakt HP-Wäert weisen
+Sprint um-/ausschalten
+Exakte HP-Wäerter weisen
 Rich Presence
-Public Lobby
-Toggle Search
-SCP-079 - View Modus Toggle
-SCP-079 - Post-Processing
+Ëffentlech Lobby
+Sich um-/ausschalten
+SCP-079 - Siichtmodus um-/ausschalten
+SCP-079 - Nobeaarbechtung
 Sprooch
 Haaptmenü
 Verbannen
@@ -61,10 +61,10 @@ Dës Ännerung erfuerdert e Reload.\nMenü elo nei lueden?
 Jo
 Nee
 Wëllt Dir wierklech verloossen?
-Screen Resolution
+Bildschirmopléisung
 IP verstoppen
 Wëllkomm zréck, {username}!
-Credits
+Verdéngschter
 AUTHENTIFIZÉIEREN
 Verbanne mat zentrale Server...
 <color=green>Verbindung hiergestallt</color>
@@ -76,9 +76,9 @@ Sekonnen
 Ragdoll-Cleanup-Zäit
 Steam-Profil weisen
 Erlaabt Spiller, Äert Steam-Profil ze kucken, andeems se op eng Ikone an der Spillerlëscht klicken.
-Do Not Track (DNT)
+Net verfollegen (DNT)
 Verbannt dem Server, Är Daten (IP-Adress, Benotzer-ID, asw.) fir Zwecker ze benotzen, déi net mat der Serversécherheet ze dinn hunn.
-Graphics API
+Grafik-API
 D'Erstelle vu Spillserver direkt aus dem Spill gëtt net méi ënnerstëtzt.\nEt gëtt aktuell 3 Weeër fir en SCP:SL-Server ze kreéieren:\n- Dir kënnt den SCP:SL-Dedicated-Server (Steam AppID: 996560) eroflueden an op Ärem Computer ausféieren\n- Dir kënnt en VPS oder en Dedicated Server vun engem Hosting-Provider lounen an do den SCP:SL-Dedicated-Server ausféieren\n- Dir kënnt en SCP:SL-Server vun engem Gamehosting-Provider lounen, deen SCP:SL ënnerstëtzt (z.B. Terabit)\n\nKlickt op d'Linken hei ënnendrënner fir méi Informatioun.\nDir kënnt eisen technesche Support (Link zu eisem Discord-Server fënnt Dir am Haaptmenü) ëm Hëllef froen.
 TROTZDEM ERSCHAFEN
 MÉI LIESSEN

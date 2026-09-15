@@ -8,7 +8,7 @@ Längt
 EWECHHEIEN:
 Helm-Effizienz
 Wess-Effizienz
-Stamina-Verbrauch
+Ausdauerverbrauch
 Bewegungsgeschwindegkeet
 Géigestands-Limiten:
 Munitiouns-Limiten:
