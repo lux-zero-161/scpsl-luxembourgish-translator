@@ -1,0 +1,41 @@
+Schnellaccess-Tasten
+Nei Schnellaccess-Tast erstellen
+Schnellaccess-Tasten erlaben Iech Géigestänn Tasten ze zouweisen, sou datt Dir se ausrëscht kënnt ouni Äert Inventar ze öffnen.
+Zougangskaart
+Primärwaff
+Sekundärwaff
+Medezin
+Granat
+Numm
+Zougewisen Tast
+Ausgesinn
+Reiefolleg-Modus
+Géigestandsauswielprioritéit
+Setzt den Ufankspunkt vun der Reiefolleg no benotzerdefinéierte Bedéngungen.
+Verstoppt
+Normal Symbol
+Schmuel Symbol
+Reiefolleg vun de Géigestänn
+Auswiel baséiert op der Reiefolleg vun den Elementer am 'Géigestänn'-Pool hei ënnendrënner.
+Inventarreiefolleg
+Auswiel baséiert op hirer Reiefolleg am Inventar.
+Näischt
+Bescht Medezin
+Probéiert de beschte medezinesche Géigestand auszewielen - baséiert op Ärer HP, Ausdauer oder aktuellen Statuseffekter.
+Vergiess Vireg
+Den Ufankspunkt vun der Reiefolleg gëtt net zréckgesat, wann en anere Géigestand ausgewielt gëtt.
+Dier-Zougangserkennung
+Prioriséiert Zougangskaarten, déi Dieren an der Noperschaft kënnen opmaachen.
+Iwwerpréng eidel Waffen
+Prioriséiert geluedene Waffen virun eidelen.
+Géigestänn
+Index-Iwwereneestëmmung
+Erlaabt d'Definitioun vun enger Reiefolleg, déi hirer Positioun am Inventar entsprécht. Géigestänn, déi net mam gewielte Filter iwwerenee stëmmen, ginn ignoréiert wann eng Reiefolleg berechent gëtt.
+All Schnellaccess-Tasten ewechhuelen
+Standard zrécksetzen (halen)
+Änneren: [hotkey]
+Nei onbenannt Schnellaccess-Tast
+Beliebig Waff
+Beliebig Zougangskaart
+Beliebig Wurfgeigestand
+Beliebig SCP-Géigestand

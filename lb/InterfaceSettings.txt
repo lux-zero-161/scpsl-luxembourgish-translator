@@ -1,0 +1,24 @@
+Server IP-Uweisungsmodus
+Interface-Sprooch
+Ännerungen ginn op e puer Plazen net direkt effektiv.\nE komplette Neistart vum Spill gëtt recommandéiert.
+Lueden...
+Ënnertitelen
+Healthbar-Modus
+Exakt HP-Zuel
+Prozent
+Rollen-Intro-Animation
+Regelméisseg
+Schnell
+Kontrolléiert d'Dauer vun der Vollbild-Textanimatioun, déi den Numm vun Ärer neier Roll enthält.
+Verstoppt
+Erlaabt, datt d'Server IP-Adress op Interface-Elementer verstoppt gëtt.
+Taskbar blénkt bei Respawn
+Photosensibilitéits-Warnung beim Start
+Gewënscht Eenheetensystem
+Metresch
+Imperial
+Wielt tëschent metreschen Eenheeten (Kilogramm, Meter, asw.) oder imperial Eenheeten (Pond, Zoll, asw.). Bedenkt datt dës Funktioun nëmmen e puer UI-Elementer beaflosst a net vun alle Spillfunktiounen ënnerstëtzt gëtt.
+Waffepräzisioun-Uweisungsmodus
+Prezis Reichwäit
+Streuung
+Bestëmmt wéi d'Waffeepräzisioun duerch UI-Elementer duergestallt gëtt. D'Prezis Reichwäit weist d'Distanz un, op där d'Waff wahrscheinlech nach en Zil trefft, während d'Streuung déi maximal angular Ofwäichung vun der Zilrichtung weist.

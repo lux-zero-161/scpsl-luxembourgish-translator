@@ -1,0 +1,6 @@
+<color=red>Zougang verweigert</color>
+Limit vun <color=yellow>[type] Munitioun</color> erreecht (<color=yellow>[max_type_count] Schoss</color>).
+Limit vun <color=yellow>[type] Munitioun</color> <b>schonn</b> erreecht (<color=yellow>[max_type_count] Schoss</color>).
+Limit vun <color=yellow>[type]</color> erreecht (<color=yellow>[max_type_count] Géigestänn</color>).
+Limit vun <color=yellow>[type]</color> <b>schonn</b> erreecht (<color=yellow>[max_type_count] Géigestänn</color>).
+Nëmmen <color=yellow>[max_item_count] Géigestänn</color> kënne gedroe ginn.

@@ -1,0 +1,30 @@
+Munitioun [loaded]/[capacity] [type]
+Schued
+Feuerrate
+Hip-Präzisioun
+ADS-Präzisioun
+Gewiicht
+Längt
+EWECHHEIEN:
+Helm-Effizienz
+Wess-Effizienz
+Stamina-Verbrauch
+Bewegungsgeschwindegkeet
+Géigestands-Limiten:
+Munitiouns-Limiten:
+[amount] total
+Panzer-Penetratioun
+Laf-Präzisioun
+Dréckt [key] fir ze kicheren
+Rescht Ladung: [percent]
+Rescht Munitioun: [rem]
+Halt [primary] fir de Schnellfeiermodus.
+Halt [secondary] fir eng héichgezunn Ladung.
+Dréckt [key] fir tëscht de Feiermodi ze wiesselen.
+Dréckt [key] fir unzegräifen.
+Halt [key] fir ze laden.
+Parat fir ze entlueden. [primary] fir z'aktivéieren.
+Dës Waff ass beschiedegt. D'Fäegkeeten si limitéiert.
+SCP-127 gëtt méi staark, wat Är Verbindung mat him déifer gëtt.
+Benotzt d'$Pfeiltasten$ oder $[up], [left], [down] an [right]$ fir d'Schlaang ze kontrolléieren.
+Sprintgeschwindegkeet

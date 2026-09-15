@@ -1,0 +1,19 @@
+Server-Astellung net fonnt
+Tast net zougewisen
+Pfeil op
+Pfeil erof
+Pfeil lénks
+Pfeil riets
+Lénks Shift
+Riets Shift
+Lénks Steuerung
+Riets Steuerung
+Lénks Alt
+Riets Alt
+Tab
+Leertast
+Enter
+Lénks Maustast
+Riets Maustast
+Mëttel Maustast
+Maustast {0}

@@ -1,0 +1,18 @@
+Mausastellungen
+Empfindlechkeet
+Zielsens.-Reduktioun
+Raw Input
+Y-Achs ëmdréien
+Beim Zielen duerch d'Zielsich gëtt d'Mausempfindlechkeet duerch den Zoomfaktor vum Zielsich gedeelt. Ziler erschéngen ëmmer mat der selwechter Distanz um Bildschierm am Verhältnis zu Ärer Mausbewegung. Dir kënnt d'Intensitéit vun der Reduktioun erhéijen oder reduzéieren, andeems Dir dës Astellung ajustéiert.
+Halten
+Em Schalten
+Zielen - Aktivéierungsmodus
+Sprint - Aktivéierungsmodus
+Géigestänn ophiewen - Aktivéierungsmodus
+Schläichen - Aktivéierungsmodus
+Mauskuckt - Aktivéierungsmodus
+Rietsklick fir Ewechgeheien (Inventar)
+Inventar - Aktivéierungsmodus
+Zonwechsel-Tastaturkürzel
+Automateschen Zuschauerwiessel
+Wiesselt Är Kamera no enger kuerzer Verzögerung automatesch op e liewende Spiller, wann Dir grad keen observéiert.

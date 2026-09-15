@@ -1,0 +1,28 @@
+Volume
+Master
+Voice Chat
+Soundeffekter
+Mikrofonopfang
+Apparat
+Privatsphär-Astellungen
+Ajustéieren
+Haaptmenü
+Musek
+Interface
+Ofstelltheema
+Geron-Ënnerdréckung
+Reduzéiert ongewollten Hannergeron, deen vun Ärem Mikrofon opgefaange gëtt. Et ass staark recommandéiert dës Optioun aktiv ze loossen; et sollt keen Impakt op d'Qualitéit vun Ärer Stëmm hunn.
+Sproochen (Voice Lines)
+SCP-127 Stëmm-Volume
+SCP-3114 Stëmm-Volume
+Audioeffekter
+Voice Chat Distant Reverb
+Kontrolléiert wéi gedämpft an reverbéiert de Proximity Voice Chat gëtt, wat Dir méi wäit ewech vun der Quell sidd.
+Default
+Méi Reverb
+Minimal Reverb
+Lautsprecheur-Simulatioun fir Ukënnegungen
+Kontrolléiert ob P.A.-System Ukënnegungen (wéi C.A.S.S.I.E.) iwwer den nooste Lautsprecher oder global gespillt ginn.
+Juegdthemen
+Soundeffekter mute
+Soundeffekter beim Spektéieren

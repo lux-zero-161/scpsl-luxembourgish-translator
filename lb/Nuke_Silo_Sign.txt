@@ -1,0 +1,4 @@
+#INFO FIR IWWERSETZER: An dëser Datei kënnt Dir sou vill Zeilen benotzen wéi Dir wëllt, all gi se uewen op dem Display iwwer der Dier ugewisen.
+ALPHA
+WARHEAD
+SILO

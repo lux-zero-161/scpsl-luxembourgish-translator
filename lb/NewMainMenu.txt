@@ -1,0 +1,101 @@
+Neiegkeeten
+Server
+Astellungen
+Verloossen
+Social Media
+Internet
+Favoritten
+Offiziell
+Verlaf
+Frënn
+Server sichen
+Server erstellen
+Erëm bäitrieden
+Direkt verbannen
+Erfrëschen
+Eidel Spiller verstoppen
+Voll Spiller verstoppen
+Keng Whitelist
+Video
+Audio
+Kontrollen
+Gameplay
+Aneres
+Fënstermodus
+Exklusiv Vollbild
+Fënsterelose Vollbild
+Maximéiert Fënster
+Fënster
+V-Sync
+FPS-Limit
+Aus
+Texturqualitéit
+Decals
+Schatten
+Schattenopléisung
+Schatten Distanz
+Motion Blur
+Farbkorrektur
+Anti-Aliasing
+Luucht renderen
+Master-Volume
+Soundeffekter
+Voice Chat
+Menümusik
+Interface-Volume
+Menüthema
+Schnell Intro Fade
+Kapp-Bewegung
+Toggle Sprint
+Exakt HP-Wäert weisen
+Rich Presence
+Public Lobby
+Toggle Search
+SCP-079 - View Modus Toggle
+SCP-079 - Post-Processing
+Sprooch
+Haaptmenü
+Verbannen
+Zréck
+Dës Ännerung erfuerdert e Reload.\nMenü elo nei lueden?
+Jo
+Nee
+Wëllt Dir wierklech verloossen?
+Screen Resolution
+IP verstoppen
+Wëllkomm zréck, {username}!
+Credits
+AUTHENTIFIZÉIEREN
+Verbanne mat zentrale Server...
+<color=green>Verbindung hiergestallt</color>
+<color=red>Verbindungsfeeler (Check Konsole fir Detailer)</color>
+<color=red>Steam-Authentifikatiounsfeeler (Check Konsole fir Detailer)</color>
+<color=red>Discord-Authentifikatiounsfeeler (Check Konsole fir Detailer)</color>
+Desaktivéiert
+Sekonnen
+Ragdoll-Cleanup-Zäit
+Steam-Profil weisen
+Erlaabt Spiller, Äert Steam-Profil ze kucken, andeems se op eng Ikone an der Spillerlëscht klicken.
+Do Not Track (DNT)
+Verbannt dem Server, Är Daten (IP-Adress, Benotzer-ID, asw.) fir Zwecker ze benotzen, déi net mat der Serversécherheet ze dinn hunn.
+Graphics API
+D'Erstelle vu Spillserver direkt aus dem Spill gëtt net méi ënnerstëtzt.\nEt gëtt aktuell 3 Weeër fir en SCP:SL-Server ze kreéieren:\n- Dir kënnt den SCP:SL-Dedicated-Server (Steam AppID: 996560) eroflueden an op Ärem Computer ausféieren\n- Dir kënnt en VPS oder en Dedicated Server vun engem Hosting-Provider lounen an do den SCP:SL-Dedicated-Server ausféieren\n- Dir kënnt en SCP:SL-Server vun engem Gamehosting-Provider lounen, deen SCP:SL ënnerstëtzt (z.B. Terabit)\n\nKlickt op d'Linken hei ënnendrënner fir méi Informatioun.\nDir kënnt eisen technesche Support (Link zu eisem Discord-Server fënnt Dir am Haaptmenü) ëm Hëllef froen.
+TROTZDEM ERSCHAFEN
+MÉI LIESSEN
+SERVER LOUNEN
+ABBRIECHEN
+Sekonn
+Fir eist Spill ze spillen!
+Taskbar bei Spawn blénken
+Ambient Occlusion
+Volumetresch Luuchten
+Bloom
+Ënnertitelen em Schalten
+Operationele Guide
+Server lounen
+<color="red>FOTOSENSIBILITÉITSWARNUNG: VIRUM SPILLEN LIESSEN!</color>\nEng ganz kleng Prozentsuel vu Persoune kann epiléptesch Ugrëffer erliewen, wann se u bestëmmte Liichtmuster oder blénkende Luuchten ausgesat sinn. D'Aussetzung u bestëmmte Musteren oder Hannergréng um Computerscreen oder wärend dem Spill vu Videospiller ka bei dëse Persounen en epilépteschen Ugrëff ausléisen. Bestëmmte Bedéngungen kënnen och bei Persounen ze virdrun net entdeckten epiléptesche Symptomer ausléisen, déi keng Geschicht vu virege Ugrëffer oder Epilepsie hunn.\nWann Dir oder een an Ärer Famill eng epiléptesch Bedéngung hutt, konsultéiert Ären Dokter virum Spillen. Wann Dir wärend engem Video- oder Computerspill ee vun de folgende Symptomer erliewt - Schwindel, verännert Visioun, Aen- oder Muskulzuckungen, Bewosstséinsverloscht, Desorientéierung, onfräiwëlleg Bewegungen oder Krampfunken - stoppt d'Benotzung SOFORT a konsultéiert Ären Dokter, ier Dir weiderspillt.
+DRÉCKT ALL KNÄPPE FIR WEIDER
+NET MÉI WEISEN
+Weider
+Server-Info
+Disconnect

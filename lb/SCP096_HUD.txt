@@ -1,0 +1,9 @@
+Schafft zesumme mat Ären <color=#F00>SCP-Matspiller</color>. Dir start a engem Docile Zoustand, net fäeg unzegräifen. Bestrof Mënschen, déi dech observéieren, andeems Dir während Ärem Enraged-Zoustand mächteg Ugrëffer ausféiert.
+Probéier net ze kräischen:Wann Dir am Docile-Zoustand sidd, dréckt [key] op eng flaach Mauer oder Dier fir dech drun unzepoen. Wärend Dir un engem leet, sinn Är Kräischen gedämpft an Är Hume-Schild-Regeneratiounsrate ass verduebelt.
+Nahkämpf:Wann Dir am Enraged-Zoustand sidd, dréckt [key] fir e staarke Nahkampfugrëff op Mënschen an Dieren an der Noperschaft auszeüben. Dësen Ugrëff kann keng Mënschen beschiedegen, déi net op Äert Gesiicht gekuckt hunn.
+Charge:Wann Dir am Enraged-Zoustand sidd, dréckt [key] fir dech mat extremer Geschwindegkeet an enger gerader Linn ze katapultéieren. Dësen Ugrëff verursaacht massive Schued u Mënschen.
+Nëmme Rage
+Nëmme Docile
+Halt [key] fir an de Rage ze kommen.
+Halt [key] fir de Rage forcéiert ze verloossen.
+Scopophobia:Dir start an engem Docile-Zoustand. An dësem Zoustand sidd Dir net fäeg unzegräifen a beweegt dech lues. Wann e Mënsch op Äert Gesiicht kuckt, kritt Dir d'Fäegkeet, an den Enraged-Zoustand ze kommen. Am Enraged-Zoustand beweegt Dir dech séier a kritt mächteg Ugrëffer, kënnt awer nëmme Spiller gesinn, déi op dech gekuckt hunn.

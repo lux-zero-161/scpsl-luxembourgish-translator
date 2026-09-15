@@ -1,0 +1,16 @@
+Dir sidd elo als [role_name] verkleet.
+Net fäeg unzegräifen, während Dir verkleet sidd. Halt [key] fir Är aktuell Verkleedung ewechzehuelen.
+Géigestänn, déi als SCP-3114 gehalen ginn, kënnen net benotzt ginn.
+Dréckt [key] fir mat Mënschen ze kommunizéieren, während Dir verkleet sidd.
+Dës Läich gouf schonn fir eng Verkleedung benotzt.
+Dir sidd schonn verkleet. Halt [key] fir Är aktuell Verkleedung ewechzehuelen.
+Nëmme mënschlech Läichen kënnen als Verkleedung benotzt ginn.
+Dës onerkannebär Schëppchen ass wahrscheinlech d'Iwwerreschter vum <b>[player_name]</b>.
+Dir kënnt dës Läich benotzen, fir als e [role] ze verkleeden.
+Verkleedung
+Erdrosselungs-Abkühlzäit
+Skeletons In Your Closet:Während Dir verkleet sidd, kënnt Dir keng Spiller ugrafen, hutt awer en Inventar a kënnt verschidde generesch Géigestänn sammelen. Dir kënnt och mat Mënschen an der Noperschaft duerch Proximity-Chat kommunizéieren, andeems Dir [key] halt.
+Catch These Hands:Dréckt [key] fir eng Rei vun niddereg-Schued-Ugrëffer op e Mënsch an der Noperschaft ze lancéieren. En Doud vun dësem Ugrëff regeneréiert e groussen Deel vun Ärem Hume-Schild.
+Erdrosselung:Nodeems Dir Är Verkleedung ewechgeholl hutt, kënnt Dir [key] op Mënschen an der Noperschaft halen fir se ze fänken. Dëst ewechhëlt hir Géigestänn a bréngt se séier ëm. Erdrosselung ass nëmmen eng kuerz Zäit no der Ewechhuelung vun Ärer Verkleedung verfügbar.
+Under Their Skin:Halt [key] op enger Läich fir als Mënsch ze verkleeden. Dir hëlt den Numm an d'Klass vun der Läich un a léisst eng Schëppchen hanner. Verkleedungen halen net fir ëmmer a kënne virdru ewechgeholl ginn, andeems Dir R hält.
+Halt [key] méi laang gedréckt fir Är aktuell Verkleedung ewechzehuelen.

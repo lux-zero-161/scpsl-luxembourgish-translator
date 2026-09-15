@@ -1,0 +1,5 @@
+DU BASS GESTUERWEN
+Dréckt {KEYBINDING_INTERACTION} fir den <color=yellow>Waffenmanager-Tablet</color> ze placéieren.
+Dréckt {KEYBINDING_INTERACTION} fir den <color=yellow>Waffenmanager-Tablet</color> opzehuelen.
+Op dëser <color=yellow>Aarbechtsstatioun</color> ass schonn en aneren <color=yellow>Waffenmanager-Tablet</color> ugeschloss.
+Dir braucht en <color=yellow>Waffenmanager-Tablet</color> fir dës <color=yellow>Aarbechtsstatioun</color> ze benotzen.

@@ -1,0 +1,28 @@
+VUM ADMIN GEMUTED
+GLOBAL GEMUTED
+NET AUTHENTIZÉIERT
+PRIVATSPHÄR-ASTELLUNGEN AJUSTÉIEREN
+Äre Mikrofon ass wéinst Äre Privatsphär-Astellungen desaktivéiert.
+Voice Chat Privatsphär-Astellungen
+Dëst Spill benotzt Voice Chat. D'Benotzung vun de Push-to-Talk-Tasten (Standard "Q" an "V") fëllt Äre Mikrofon op a sendt Är Stëmm un aner Benotzer, déi mam Server verbonne sinn.\nE puer Spillfunktiounen kënne kuerz Mustere vun Ären Sendunge temporär späicheren, déi automatesch geläscht ginn, nodeems Dir de Server verlooss hutt.
+Alles ofleenen (Mikrofonopfang desaktivéieren)
+Astellungen personnaliséieren
+Alles akzeptéieren
+Akzeptéieren
+Ofleenen
+Mikrofonopfang
+Erlaabt dem Spill, Äre Mikrofon opzefänken an un Benotzer ze schécken, wann d'Push-to-Talk-Tasten gehalen ginn. Eng Mikrofon-Ikone gëtt ënnendrënner um Bildschierm ugewisen, déi aktive Sendung kennzeechent. D'Spill schéckt ni Äre Mikrofontoin ouni datt dës Indikatioun siichtbar ass.
+Kuerz Opnahmen
+Erlaabt Spillmechaniken, kuerz Opnahmen vun Ärer Stëmm ze benotzen. Dëst beinhalt d'SCP-939 "With Many Voices"-Fäegkeet, déi kuerz Stëmmprobe vu getéitete Spiller ophuele kann. All Opnamen ginn direkt verworf wann Dir de Server verlooss, oder soubal d'Ronn nei start.
+Astellungen uwenden
+Zréck
+Dréckt "[key]" a navigéiert op "Astellungen" fir unzepassen.
+Liewend Spiller muten
+Aner Zuschauer muten
+Pre-Game Lobby muten
+Pre-Game Lobby Chat
+Ronn-Zesummefaassung Global Chat
+Zuschauer-Chat
+Chat vun liewenden Spiller beim Spektéieren
+Gemuted
+Net gemuted

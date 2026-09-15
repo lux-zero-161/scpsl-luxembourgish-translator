@@ -1,0 +1,32 @@
+Mobile Task Force Eenheet Epsilon-11 mat der Bezeechnung [designation] ass an d'Facility agetrueden.<split>Allen verbleiwe Personal gëtt geroden, mat de Standard-Evakuatiounsprotokoller weiderzefueren, bis en MTF-Team Äert Zil erreecht.<split>
+Waart op d'Erëmagrenzung vu: [count] SCP-Subjekten.
+Waart op d'Erëmagrenzung vu: 1 SCP-Subjekt.
+Et bleift eng bedeitend Sécherheetsgefor an der Facility - sidd virsiichteg.
+erfollegräich terminéiert. Terminatiounsursaach net spezifizéiert.
+terminéiert vum SCP-[scp].
+erfollegräich vun engem Automatesche Sécherheetssystem terminéiert.
+erfollegräich vum Alpha-Warhead terminéiert.
+erfollegräich vu Wëssenschafts-Personal ageschloss.
+erfollegräich vum Class-D-Personal ageschloss.
+erfollegräich vun der Chaos Insurgency ageschloss.
+SCP-[scp]
+erfollegräich ageschloss. Agrenzungseenheet onbekannt.
+erfollegräich ageschloss. Containment-Eenheet [designation].
+an der Dekontaminatiounssequenz verluer.
+[current] vun [max] Generatoren aktivéiert.
+<split>All Generatoren goufen erfollegräich ageschalt.
+Overcharge an 3... 2... 1...
+D'Facility ass erëm am operationelle Modus.
+Opgepasst, all Personal.<split>Den Dekontaminatiounsprozess vun der Light Containment Zone fänkt an T-15 Minutten un.<split>All biologesch Stoffer musse ewechgeholl ginn, fir eng Zerstéierung ze vermeiden.
+Gefor, Gesamtdékontaminatioun vun der Light Containment Zone an T-[time] Minutten.
+Gefor, Gesamtdékontaminatioun vun der Light Containment Zone an T-1 Minutt.
+Gefor, Gesamtdékontaminatioun vun der Light Containment Zone an T-30 Sekonnen.<split>All Checkpoint-Dieren goufen permanent opgemaach. Evakuéiert w.e.g. direkt.
+D'Light Containment Zone ass zougespaart a bereet fir d'Dekontaminatioun.<split>D'Ewechhuelung vun organesche Stoffer huet elo ugefaangen.
+NOTFALL-DETONATIOUNSSEQUENZ: AKTIVÉIERT.<split>DEN ËNNERIERDESCHE SECTION VUN DËSER FACILITY ASS AGESTELLT, SECH SELWER Z'ZERSTÉIEREN AN: T-[time] SEKONNEN.
+DETONATIOUNSSEQUENZ: OFGEBROCH.
+NOTFALL-DETONATIOUNSSEQUENZ: WEIDER. T-[time] SEKONNEN.
+terminéiert vum Marshmallow-Mann.
+Nine-Tailed Fox Verstärkungseenheet ass an d'Facility agetrueden.<split>
+Opgepasst, all Personal. Detektéiert [number] Chaos Insurgency Kräften op Paart A.<split>Letale Kraaft autoriséiert.
+Méi [number] feindlech Kräften op Paart A erworben.<split>Verteidegungsmodell: aktualiséiert.
+SITE RECOVERY FEELER - DEAD MAN's SWITCH AKTIVÉIERT.<split>DEN ËNNERIERDESCHE SECTION VUN DËSER FACILITY gëtt SECH AN T-[time] SEKONNEN SELWER Z'ZERSTÉIEREN

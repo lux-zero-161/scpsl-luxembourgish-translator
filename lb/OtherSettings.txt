@@ -1,0 +1,30 @@
+Server-seiteg Benotzerverfollegung
+Erlaben
+Ofleenen (DNT)
+Wann ofgeleent gëtt, verbannt et verifizéierte Serven, Är Daten (IP-Adress, Benotzer-ID, asw.) fir Zwecker ze benotzen, déi net mat der Serversécherheet ze dinn hunn. E puer server-spezifesch Funktiounen (wéi Leaderboarden, Levéesystemer an ähnleches) funktionnéieren dann net korrekt.
+Rich Presence
+Erlaabt Plattformen (Steam an Discord) méi Informatioun iwwer Ären aktuellen In-Game-Status unzeweisen.
+Steam Lobby Visibilitéit
+Definéiert wéi aner Benotzer iwwer Äert Steam-Profil dem Server kënne bäitrieden.
+Voice Chat Privatsphär-Astellungen
+Profil op der Spillerlëscht
+Erlaabt Spiller, Äert Steam-Profil ze kucken, andeems se op eng Ikone an der In-Game-Spillerlëscht klicken.
+Ugewisen
+Verstoppt
+Nëmmen Invitatioun
+Ëffentlech
+Ännerungen ginn aktiv wann Dir déi nächst Kéier en Server verbënnt (oder bei Ronn-Neistarten)
+Nëmme Frënn
+Privatsphär
+SCP-Spawn-Preferenzen
+Spawn-Preferenzen gi benotzt fir d'automatesch Zousuerdeelung vu SCP-Rollen tëscht Matspiller ze verbesseren. Bedenkt datt se Är Chance, en SCP statt en Mënsch ze ginn, net beaflossen.
+Badge-Preferenzen
+Keng Preferenz
+Global Badge preferéieren
+Lokal Badge preferéieren
+Global Badge Visibilitéits-Preferenzen
+Lokal Badge Visibilitéits-Preferenzen
+Aus SCP erauswielen
+Wann aktivéiert, kënnt Dir net als SCP spawnen. Am Fall, datt net genuch Spiller am SCP ausgewielt sinn, kënnt Dir trotzdeem als een spawnen.
+Opt In
+Opt Out

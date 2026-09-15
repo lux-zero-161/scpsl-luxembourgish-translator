@@ -1,0 +1,101 @@
+BÄITRIEDEN
+ZOULOSEN
+SCHIMMERAUFLÖSUNG
+ASTELLUNGEN
+BASÉIERT OP <i>SCP: CONTAINMENT BREACH</i>
+ZRËCK
+SPROOCH
+ANTIALIASING
+Detailer änneren:\n-PIXEL LICHT COUNT - Maximal Zuel vu Luuchtenquellen, déi hire Luucht op eenzele Pixel gerechent ginn.\n-V-Sync - Aktivéiert d'Synchronisatioun mat der Erfrëschungsrate vum Displaygerät.
+SPILL BÄITRIEDEN
+POST\nPROCESSING
+CREDITEN
+SPILL VERLOOSSEN
+Vollbildmodus
+BILDSCHIRMASTELLUNGEN
+FARB CORRECTION
+IP-Adress aginn...
+SCREEN RESOLUTION
+SPILLEN
+PIXEL LICHT COUNT
+SCHIMMERTYP
+SCHIMMEREN
+SPILL ERSCHAFEN
+Post-Processing-Astellungen änneren. Dës Astellungen beaflossen d'Performance normalerweis net; et gëtt recommandéiert d'Standardwäerter ze loossen.
+Luuchterrechnungsmodus:\nWann aus, gëtt d'Grafikqualitéit bedeitend reduzéiert. Dës Astellung auszeschalten gëtt nëmme fir Computeren mat niddreger Leeschtung recommandéiert.
+V-SYNC
+VERBANNEN
+QUALITÉITSASTELLUNGEN
+Schimmervirléiften änneren. Dës Slider op niddregere Wäerter ze setzen kann d'Spillflüssegkeet erhéijen.
+HAUPTMENÜ
+LUUCHT RENDEREN
+MOTION BLUR
+SCHIMMERDISTANZ
+DETAILER
+3. SCP-914
+TUTORIALS
+WARNUNG
+Verfügbar Server iwwerbléien
+Net méi weisen
+Wéi wëllt Dir Iech verbannen?
+SERVER-BROWSER
+OKAY
+MATCH FANNEN
+2. Waffe benotzen
+Mir benotzen Discord als Forum. Kee Installatioun néideg.\n(Klickt op de Logo fir bäizetrieden)
+Standardmässig riicht de Server dech um lokale Netzwierk op.\nÄr Frënn brauchen déi direkt IP-Adress fir sech ze verbannen.\nWann Dir en ëffentleche Server opriichte wëllt, wielt LocalAdmin.exe an follegt d'Instruktiounen.\nWann Dir Froen hutt, kontaktéiert w.e.g. eisen technesche Support (Link am Haaptmenü).
+1. D'Basics
+Déi presentéiert Spill ass nach an enger öffentlecher Beta.\nDir kënnt Verbindungsproblemer a vill aner Bugs erliewen.\nDen aktuellen Zoustand reflektéiert net déi final Versioun.
+4. (méi Tutorials kommen nach)
+DIREKT VERBANNEN
+TECH-SUPPORT / FORUM
+TOUNVOLUME
+Gitt d'IP-Adress vum spezifesche Server an.
+DOWNLOADEN
+KENG SERVER VERFÜGBAR
+DRÉCKT ESC FIR ZOULOSEN / OFZEBRIECHEN
+TASTENZOUERDNUNG
+MAX BLUTMASS
+FPS-Limit
+FPS-Limit funktionnéiert net, wann vSync aktivéiert ass!
+Standard setzen
+Mir benotzen Steam Discussions als Forum. (Klickt op de Logo ënnendrënner fir de Forum opzemaachen)
+AUDIOASTELLUNGEN
+MAINVOLUME
+MENÜMUSIK
+VOICE CHAT
+SOUNDEFFEKTER
+GAMEPLAY-OPTIOUNEN
+SCHNELL INTRO FADE
+Den Klass-Intro-Text fade géigesäiteg vill méi séier aus.
+SCP-079 - VIEW MODUS TOGGLE
+Dréckt eemol fir tëscht de Kamera-Modi ze wiesselen.
+SCP-079 - POST-PROCESSING
+Wann desaktivéiert, ginn d'Kamaraeffekter staark reduzéiert.
+KAPP-BEWEGUNG
+Aktivéiert d'First-Person Kamera-Beweegung während der Bewegung.
+TOGGLE SPRINT
+Sprinten schalt un an aus, anstatt gehalen ze ginn.
+SEPARATEN ARTIFIZIELLEN HP-BAR
+Gëtt artifiziell HP en eegene Gesondheetsbalke, anstatt en Overlay.
+Eis Iwwersetzunge sinn Open-Source op GitHub!\nWëllt Dir hëllefen? Klickt hei fir op d'Repo ze kommen.
+RICH PRESENCE
+Wann aktivéiert, gëtt Äre Status op Discord/Steam ugewisen.
+EXAKT HP-WÄERT WEISEN
+Weist exakt HP un, anstatt just de Prozentsaz.
+PUBLIC LOBBY
+Wann aktivéiert, kënnen Är Steam-Frënn bäitrieden ouni Erlaabnis.
+IP VERSTOPPEN
+Wann aktivéiert, gëtt all IP an der Client-Konsole net ugewisen.
+TOGGLE SEARCH
+Beim Ophiewen vu Géigestänn ass keng gehalen Tast néideg; dréckt nach eng Kéier fir ofzebriechen.
+Gëtt mëll Schatten op Ecken an enken Beräicher, fir de Modeller méi Déift ze ginn.
+Gëtt der Ëmwelt méi Déift op Käschte vun enger héijer Leeschtung.
+Gëtt der Luucht méi Déift, andeems en Glanz baséiert op der Luuchtintensitéit applizéiert gëtt.
+Toggle fir Ënnertitelen fir Cassie-Ukënnegungen ze weisen.
+Blénkt d'Taskbar, wann Dir spawnen, während d'Spill net am Fokus ass.
+Glätt Linnen an entfernt visuell Verzerrungen.
+Synchroniséiert d'In-Game-Framerate mat der Erfrëschungsrate vun Ärem Monitor fir Screen-Tearing ze stoppen.
+Projektéiert Texturen wéi Kugellächer oder Blutsprëtzer.
+Donkelmodus em Schalten
+Toggle fir e puer hell Elementer op hir donkel Theme-Versiounen ze wiesselen.

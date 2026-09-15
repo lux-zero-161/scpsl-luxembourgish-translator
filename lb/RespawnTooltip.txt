@@ -1,0 +1,3 @@
+Weist déi verbleiwen Zäit un, bis d'Equipe respawnt.\nBlénkt wann de Respawn imminent ass.
+Weist den Afloss un, deen néideg ass fir en neie Respawn ze verdéngen.\nAll neie Respawn kascht méi Aflosspunkten.
+Weist d'Zuel vun verfügbare Respawns fir dës Equipe un.\nWann keng Respawns méi verfügbar sinn, gëtt d'Deadman's Sequence aktivéiert.

@@ -1,0 +1,24 @@
+ADS-Zoom
+---
+Schued
+Penetratioun
+Feuerrate
+Recoil
+Recoil beim Zielen
+Koméi-Perséprecisioun
+Dreckfeier-Präzisioun
+Zielpräzisioun
+Ausrüschzäit
+Schësslautstäerkt
+Magazinkapazitéit
+Ausrüschzäit
+Reloadzäit
+---
+Zielgeschwindegkeet
+Pellet-Streuung
+Musterkonsistenz
+Zuel vun de Geschosser
+Reloadgeschwindegkeet
+---
+Lafpräzisioun
+Duebelakt Geschwindegkeet

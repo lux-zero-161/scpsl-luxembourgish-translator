@@ -1,0 +1,20 @@
+Dréckt {0} fir den Voice Channel Selector opzemaachen.
+Voice Channel Selector
+Proximitéit
+Radio
+SCP-Chat
+Ennbildschierm
+Intercom
+Mimikry
+SCP-1576
+<i>Spatial Audio</i>
+<i>Behandelt spatial Audio an der Proximitéit. Wann desaktivéiert, gëtt jidderee gehéiert, ouni Distanz oder Radios ze berücksichtegen.</i>
+<i>Benotzt vun all Spiller, wann d'Ronn eriwwer ass.</i>
+Menü-Auswiel
+Voice Chat
+Spillerinfo
+Hitreg-Log
+Debug-Spueren
+Hit Register Log:\n<size=11>Nei Entréen erschéngen vun der rietser Säit</size>
+Lobby
+SCP-1507

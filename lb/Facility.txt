@@ -1,0 +1,49 @@
+STËMM-VOLUME
+Jo
+FORCÉIERT START
+SCP-106 RE-CONTAINMENT\nPROZEDUR OVERRIDE
+Y-Achs ëmdréien
+ZESUMMEFASSUNG
+Abbriechen
+I N V E N T A R
+HELLEGKEET
+ASTELLUNGEN
+DISCONNECT
+ALPHA-WARHEAD ASS DESAKTIVÉIERT
+ZOUGANG VERWEIGERT
+VOICE CHAT
+INVENTAR IWWERLAASCHT
+Mausempfindlechkeet
+HACKING
+OPHIEWEN...
+Erhéijung vun der Hellegkeet <b>verschlechtert d'Stëmmung </b>vum Spill bedeitend.\nProbéiert dëse Wäert sou niddereg wéi méiglech ze setzen.\n<b>De Standardwäert gëtt recommandéiert.</b>
+[1] DIER OPEN/TOUCHEN\n[2] DIER SPÄREN*\n\n*D'Späre vun der Dier benotzt eng Spezialfäegkeet
+DIER WÄERT VUM SCP-079 GESPRÄRT
+Vollbildmodus
+Wëllt Dir de Server wierklech verloossen?
+Basisoptiounen. Voll Lëscht vun den Astellungen am Menü.
+Waart op Spiller
+ZESUMMEFASSUNG
+VIRUFÄEREN
+HAUPTVOLUME
+verbonne
+Dir sidd als Wëssenschaftler geflücht a sidd den MTF-Eenheeten bäigetrueden.
+Dir sidd als Class-D geflücht a sidd der Chaos Insurgency bäigetrueden.
+DIR SIDD
+Fluchtzäit: [escape_minutes] Minutten an [escape_seconds] Sekonnen
+Waart [time] bis Dir [item] erëm benotze kënnt.
+Dréckt <color=yellow><b>F1</b></color> fir méi Informatioun iwwer Är Roll.
+Dir sidd gefesselt ginn.\n<size=40>Follegt Uerden oder freet Matspiller fir Hëllef.</size>
+Dir sidd vun der Nine-Tailed Fox erëm agefaange ginn.\nMat enger Geforen manner an der Facility konnten se sech verstäerken.
+Dir sidd als Wëssenschaftler vun der Chaos Insurgency gefaange geholl ginn.\nSi konnten aus der Informatioun, déi Dir hinnen ginn hutt, e Virdeel zéien.
+RONN FÄERT A: <color=yellow>{0}</color>s
+RONNSTART ASS <color=#FF5050>PAUSÉIERT</color>
+ZIELSENS.-REDUKTIUN
+Dréckt [key] fir de Wurf ofzebriechen.
+ADS Toggle
+Spectateur-Chat muten
+Geronreduktioun aktivéieren (recommandéiert)
+Automatesch (System-Standard)
+Kee Mikrofon erkannt!
+INPUT-APPARAT
+Dréckt [key] fir d'Käerzen auszepaken.

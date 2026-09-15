@@ -1,0 +1,58 @@
+Ganz niddereg
+Niddereg
+Mëttel
+Héich
+Ganz héich
+Ultra
+Aktivéiert
+Desaktivéiert
+Schatten
+Schattenopléisung
+Facility Luuchten
+Opléisung
+Säiteverhältnis
+Displaymodus
+Max. FPS
+Anti-Aliasing
+V-Sync
+Decals
+Texturqualitéit
+Hellegkeet
+Bildschirmastellungen
+Qualitéit & Leeschtung
+Ragdoll-Fréieren
+Ragdoll-Fréierzäit
+FPS-Limiter
+Visuell Effekter
+Kapp-Beweegung
+Explosiounsschudder
+Flashbang Donkelmodus
+All
+Aneres
+1/2 Erfrëschungsrate
+1/3 Erfrëschungsrate
+1/4 Erfrëschungsrate
+Dat gewielte Säiteverhältnis gëtt vun Ärem Monitor net ënnerstëtzt
+Exklusiv Vollbild
+Fënsterelose Vollbild - Siichtbar halen
+Fënsterelose Vollbild - Verstoppen bei Verloscht vum Fokus
+Fënster
+SMAA Qualitéitspreset
+Ambient Occlusion
+Bloom Qualitéit
+Desaktivéiert d'Physik fir Ragdolls (doude Kierper) no enger bestëmmter Zäit fir d'CPU-Belaaschtung ze reduzéieren.
+Dat Säiteverhältnis vun Ärer aktueller Opléisung gëtt net ënnerstëtzt!\nE puer Interface-Elementer kéinten net korrekt ugewise ginn.
+Kugellächer
+Blutdecaler
+Zil-Uweisung
+• Exklusiv Vollbild: D'Spill huet voll Kontroll iwwer de Bildschirm.\n• Fënsterelose Vollbild: Erstellt e Vollbildeffekt andeems d'Fënster gestreckt gëtt fir de Bildschirm ze bedecken. Verschidde Optiounen kontrolléieren ob d'Spillfënster siichtbar bleift oder automatesch miniméiert gëtt wann se de Fokus verléiert (zum Beispill, well de Benotzer eng aner Fënster wielt).
+Graphics API
+Ännert déi 3D-Grafikbibliothéik, déi vum Spill benotzt gëtt.\nDës Optioun ass experimentell, an dofir recommandéiere mir se op Auto ze loossen — ausser Dir probéiert e spezifescht Render- oder Leeschtungsprobleem mat schlecht ënnerstëtzter Hardware ze léisen.
+D'Ännerungen ginn no engem Neistart vum Spill aktiv.
+Net verfügbar well eng Graphics API duerch Startparameter forcéiert gouf.
+Blutdecal-Limit
+Kugellach-Limit
+Nadelen weisen
+SCP-939 Visiounsunschärft
+Animatiounsqualitéit
+Bestëmmt wéi dacks d'Animatioune vun de mënschleche Modeller aktualiséiert ginn, ofhängeg vun hirer Distanz zum Spiller. D'Reduktioun vun der Qualitéit kann d'Leeschtung verbesseren, mee d'Animatioune vu wäite Modeller kéinten hapereg schéngen.

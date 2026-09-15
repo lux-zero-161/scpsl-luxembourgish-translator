@@ -1,0 +1,10 @@
+<color=green>OPEN</color>
+<color=#07A2FF>ZOULOSEN</color>
+<color=orange>BEWEEGT SECH</color>
+<color=red>SPÄR (LOCKDOWN)</color>
+<color=red>FEELER</color>
+<color=red>ZOUGANG VERWEIGERT</color>
+<color=green>ZOUGANG ERLAABT</color>
+<color=#07A2FF>ZOUGANGSKAART NÉIDEG</color>
+<color=orange>BITTE WIEDERGOEN</color>
+<color=orange>GEET ZOU</color>

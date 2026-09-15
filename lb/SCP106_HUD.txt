@@ -1,0 +1,8 @@
+GRÄFF-ABKÜHLZÄIT
+Net verfügbar op dësem Niveau.
+Net verfügbar während der Liftfahrt.
+Schafft zesumme mat Ären <color=#F00>SCP-Matspiller</color>. Benotzt Är Teleportatiounsfäegkeeten, fir séier un d'Bei ze kommen oder aus geféierleche Situatiounen ze flüchten.
+Capture:Dréckt [key] op e Mënsch an der Noperschaft fir Schued ze zefügen a si mat Korroderen ze beaflossen, wat hir Gesondheet erofzéit. Wann d'Affer schonn u Korroderen leid, schéckt dësen Ugrëff se an Är Pocket-Dimensioun.
+Stalk:Dréckt [key] fir am Buedem ënnerzegoen an Hume-Schild ze regeneréieren. Am Stalk sidd Dir net fäeg unzegräifen, beweegt dech méi séier a gesitt Mënschen iwwer Iech an enger kuerzer Reichwäit. Stalk verbraucht lues a lues Vigor, an d'Drécken vun [key] nach eng Kéier verléisst de Stalk manuell.
+Hunter's Atlas:Halt [key] fir eng kleng Kaart vun Ärer Ëmgéigend opzemaachen. Dréckt LMB, wärend Dir iwwer e Punkt op der Kaart hält, fir séier dohinner ze teleportéieren an Är Bei ofzeschneiden. Dir kritt e kuerze Geschwindegkeetsboost nom Teleport.
+Séileger Agonie:Är Fäegkeeten hänken vun engem Ressource namens Vigor of, déi uewen op Ärer Gesondheets- a Hume-Schild-Meter siichtbar ass. Vigor regeneréiert sech beim Beweegen a wann Dir Mënschen gefaangen hutt.

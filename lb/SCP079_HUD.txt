@@ -1,0 +1,91 @@
+ZOOM [amount]x
+ACCESS TIER [tier]
+EXP [current] / [next]
+MAXIMALEN TIER ERREECHT
+KEEN KAMERA
+GO: [camera] ([cost])
+NET GENUG HËLLESKRAFT
+ETA: [time] Sekonnen
+HÉIJEREN TIER NÉIDEG
+ONBENOTZBAR KAMERA
+DIERZOUGANG VERWEIGERT
+DIER OPEN ([cost])
+DÉIER ZOULOSEN ([cost])
+DIER SPÄREN ([cost])
+DIER ENTSPÄREN
+DIERSPÄREN-ABKÜHLZÄIT
+HËLLESKRAFT
+DIR WÄERT UGEGRAFF!
+DÉIERSPÄR LOSLOSSEN
+FACILITY-KAART OPEN
+ZOULOSEN
+LIGHT CONTAINMENT ZONE
+HEAVY CONTAINMENT ZONE
+ENTRANCE ZONE
+SURFACE ZONE
+BLACKOUT ([cost])
+BLACKOUT NET VERFÜGBAR FIR DËS ROOM
+LIMIT VUN SIMULTANEN BLACKOUTS ERREECHT
+ROOM-BLACKOUT-ABKÜHLZÄIT
+ELEVATOR SENDEN ([cost])
+LOCKDOWN ([cost])
+LOCKDOWN-ABKÜHLZÄIT
+KENG DIEREN FIR LOCKDOWN VERFÜGBAR
+POSITIOUN PINGEN ([cost])
+PING-RATE-LIMIT ERREECHT
+KAMERATURCHSCHALTEN FEELGESCHLONN
+SIGNAL VERLUER
+RECONNECTÉIERT (ETA: [time]s)
+TESLA-GITTER AFEIEREN ([cost])
+TESLA-GITTER AKTIVÉIERUNGS-ABKÜHLZÄIT
+$Access Tier [tier]$ - ENTSPÄRRT
+$HËLLESKRAFT$ Limit op $[limit]$ erhéicht.
+$BLACKOUT$ elo verfügbar - dréckt $[key]$ fir d'Raumluuchten auszeschalten.
+$BLACKOUT$ Kapazitéit op $[number]$ Raim erhéicht.
+$LOCKDOWN$ elo verfügbar - dréckt $[key]$ fir all Dieren an engem Raum temporär ze spären.
++[amount] EXP - Admin-Kommando
++[amount] EXP - [role] Terminatiounshëllef
++[amount] EXP - [role] direkte Terminatioun
++[amount] EXP - Terminatioun vun [role] duerch e Matspiller observéiert
++[amount] EXP - Verfollegungshëllef fir Matspiller
++[amount] EXP - Schutz vu Matspiller(n)
++[amount] EXP - Benotzung vun der Micro H.I.D. verhënnert
+DÉIERSPÄR SCHON AKTIV
+ZONWÄIT BLACKOUT ([cost])
+$ZONWÄIT BLACKOUT$ elo verfügbar - nächst un de Zonlabelen op der $Facility-Kaart$.
+ZONWÄIT-BLACKOUT-ABKÜHLZÄIT
+BLACKOUT SCHON AKTIV
+BLACKOUT NET VERFÜGBAR FIR DËS ZON
+TOTAL LIEWEWIESEN
+ZILER
+SCP-SUBJEKTEN
+ZIVILIST
+MILITÄRESCH
+LAUTSPRECHER BENOTZEN
+ELEVATORZOUGANG VERWEIGERT
+Hëlleft Ären <color=#F00>SCP-Matspiller</color>. Benotzt d'Facility-Systemer géint Mënschen, fir Ärem Team Kills ze sécheren a wichteg Intelligenz ze liwweren. Erhéicht Ären Access Tier, andeems Dir dës Aktiounen ausféiert, fir nei Fäegkeeten ze entspären.
+Praktesch onzeséierbar:Dir kënnt nëmme besiegt ginn, wann all Är SCP-Matspiller ëmbruecht sinn, oder wann Mënschen all dräi Generatoren aktivéieren an d'Facility Overcharge ausléisen. Raim mat aktive Generatoren ginn op Ärer Kaart markéiert. Är Matspiller mussen se desaktivéieren fir ze verhënneren, datt Dir zougemaach gëtt.
+Hëllefskraaft:D'Benotzung vun Äre Fäegkeeten verbraucht Hëllefskraaft (AP). AP gëtt als Meter ënne riets op Ärem Display ugewisen a regeneréiert passiv. Dir kënnt verfügbar Fäegkeeten an hir AP-Käschten uewen riets op Ärem Display gesinn.
+Tiif Léieren:D'Assistenz vun Äre Matspiller beim Ëmbréngen vu Mënschen gëtt Iech Erfarung (EXP). EXP gëtt Iech Fortschrëtt Richtung nächsten Access Tier, deen Iech nei Fäegkeete gewäert. EXP-Gewënn an Niveau-Erhéijungen ginn ënne lénks op Ärem Display ugewisen.
+Overwatch:Dir kuckt a beweegt dech duerch d'Facility iwwer Kameraen. Dréckt [key] op eng Kamera-Ikone fir op déi Kamera ze wiesselen, oder öffnet d'Kaart mat Tab fir op d'Kamera vun engem spezifesche Raum ze wiesselen.
+$BREACH SCANNER$ elo verfügbar - wielt Equipe(n)/Zonen op der $Facility-Kaart$, fir periodesch no verbleiwen Iwwerliewenden ze scannen.
+AP-REGEN SUSPENDÉIERT
+AP-REGEN REDUZÉIERT ([precentage])
+Déierspär aktiv
+Lautsprecher a Benotzung
+Lockdown am Gaang
+BREACH SCANNER
+ZRÉCK ZUR KAART
+Breach Scanner - [cnt] Zon(en)
+GEWIELT ZONEN: [cnt]
+ZONEN FIR SCANNEN AUSWIELEN
+Scangeresultat: $Keng stationär Ziler erkannt$.
+Nei Versuch an [time] Sekonnen...
+Scangeresultat: $[role]$ erkannt an '$[camera_name]$' ([zone]).
+NÄCHSTE SCAN:[time] s
+Scannen...
+SCANNESQUENZ SUSPENDÉIERT
+EQUIPEN DIR FIR Z ENTDECKEN
+De Breach Scanner erkennt verbleiwend Ziler, déi iwwer eng verlängert Period am selwechte Gebitt bleiwen.
+Wielt mindestens ee Filter fir weiderzemaachen!
+$DÉIERSPÄR$ elo verfügbar - dréckt $[key]$ op enger spezifescher Dier fir se temporär ze spären.

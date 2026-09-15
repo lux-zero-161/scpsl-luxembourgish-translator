@@ -1,0 +1,83 @@
+Dir kënnt e Spiller disarméieren, andeems Dir mat hinnen interagéiert, während Dir eng Waff hält.
+Et gëtt véier Haaptzonen an der Facility: Light Containment, Heavy Containment, Entrance a Surface.
+Wëssenschaftler a Class-D musse bis op d'Surface kommen fir ze flüchten.
+Facility-Wuechten si kierperlech schwaach, hunn awer Kraaft an der Zuel. Bleift zesummen!
+Är Stamina ass eng wäertvoll Ressource, haalt e puer fir Notfäll zeréck!
+D'Entrance-Zon huet zwou Paarten, déi Zougank op d'Surface erlaben. Dir braucht eng Zougangskaart fir se opzemaachen.
+D'Benotzung vun engem Lift ass e séieren an einfache Wee fir déi meescht SCPs ze flüchten.
+Geflücht Class-D treten der Chaos Insurgency bei, während geflücht Wëssenschaftler MTF ginn.
+Adrenalin kann benotzt ginn, fir Är Stamina direkt ze erfrëschen an Iech e Virdeel am Kampf ze ginn.
+Radios hunn véier Reichwäitastellungen. Wat d'Reichwäit méi laang ass, desto méi séier entleert sech d'Batterie.
+Tesla-Gitter sinn elektresch Geforen, déi an der ganzer Heavy Containment Zone ze fannen sinn. Gitt virsiichteg vir!
+Mobile Task Force Eenheeten a Chaos Insurgenten kommen op entgéintgesate Enden vun der Surface Zone un.
+Den Alpha-Warhead bréngt alles am Inneren vun der Facility ëm, wann en detonéiert. En kann vun der Surface Zone aus aktivéiert ginn.
+D'Detonatiounssequenz vum Alpha-Warhead kann aus sengem Raum an der Heavy Containment ofgebrach ginn.
+Den Intercom-Raum an der Entrance Zone kann benotzt ginn, fir eng Stëmmmeldung un all Spiller ze schécken.
+Dir kënnt Géigestänn geheien ('T' standardmässig). Dëst kann benotzt ginn, fir Zougangskaart-Dieren op Distanz opzemaachen oder Glas ze briechen.
+D'Light Containment Zone gëtt no 15 Minutten zougespaart; all jiddereen, deen dobannen bleift, gëtt ëmbruecht. Flücht, während Dir kënnt!
+Maximéiert Äre Virdeel, andeems Dir Är Waffenattache un d'Situatioun ugepasst.
+Wat méi Attache eng Waff huet, desto méi schwéier ass se. Dëst beaflosst de Staminaverbrauch an d'Bewegungsgeschwindegkeet.
+Schalldämpfer dampen net nëmme Schëss, si verstoppen och de Muzzle-Flash.
+Méi laang a méi schwéier Waffe si manner präzis, wann se beim Lafen ofgeschoss ginn.
+D'Droe vu Kierperrëschtung erhéicht d'Zuel vun de Géigestänn a Munitioun, déi Dir mat Iech droe kënnt.
+Panzerbriechend Munitioun (AP) ass am beschten gegen gepanzert Ziler.
+Hohlspëtz Munitioun (JHP) verursaacht méi Schued un net gepanzerten Ziler, ass awer méi schwaach gegen Panzerung.
+Dréckt a halt d'Reload-Tast fir eng Waff ze entlueden, wat seng Munitioun zu Ärem Inventar zefügt.
+Chaos Insurgency Waffe si mächteg, awer hir Munitioun spawnéiert net an der Facility. Maacht se zielen.
+Granate kënne benotzt gi fir Dieren ze zerstéieren.
+Granate kënnen mat manner Kraaft mat der rietser Maustast geworf ginn.
+D'Micro H.I.D. kann déi meescht SCPs ganz séier ëmbréngen, huet awer eng begrenzt Energy-Versuergung. Benotzt se virsiichteg!
+D'Micro H.I.D. braucht ongeféier fënnef Sekonne Laden, ier se schéisse kann.
+D'riets Maustast ze halen hält d'Micro H.I.D. am bereete Zoustand fir ze schéissen; drainért lues Energie.
+D'Micro H.I.D. ass ganz laut beim Laden. Gitt sécher, se ze benotzen, während Är Ziler net fortlafe kënnen.
+D'Laden vun der Micro H.I.D. produzéiert en bedrohende Klang, dee genuch ass fir d'Pläng vun Äre Feinden ze ruinéieren.
+Eng Fläsch SCP-207 erhéicht net nëmmen Är Bewegungsgeschwindegkeet, mee stellt och deelweis Är Gesondheet erëm hier.
+Bis zu dräi SCP-207 Fläschen kënne konsuméiert ginn, wat e bedeitende Multiplikator fir Är Geschwindegkeet erlaabt.
+SCP-500 heelt Iech net nëmmen, mee huet och déi meescht negativ Effekter ewech a gëtt duerno Regeneratioun.
+Wärend SCP-268 dech fir all Mënschen onsichtbar mécht, kann SCP-079 dech trotzdeem bemierken.
+SCP-268 ret dech net virum SCP-096, wann Dir him an d'Gesiicht gekuckt hutt.
+SCP-018 ass héich onberechenbar. Wann et geworf gëtt, sicht Deckung.
+SCP-018 kann benotzt ginn, fir Verfolger an enger Hal ze blockéieren, wann et bounst.
+SCP-330 kann sechs eenzegaarteg Séissegkeeten verdeelen, all mat hire eegene Effekter. Huelt net méi wéi zwee!
+SCP-1853 erlaabt, datt Waffen méi séier nei geluede ginn, an reduzéiert de gefillte Recoil.
+SCP-2176 kann benotzt ginn, fir e Raum ofzespären oder e Raum an eng Dier opzeschléissen, déi vum SCP-079 gespaart ass.
+SCP-2176 kann benotzt ginn, fir SCP-079 ze stun, wann en an engem aktuell observéierte Raum benotzt gëtt.
+SCP-244 verlangsamt d'Geschwindegkeet, mat där Géigestänn opgeholl kënne ginn, a stoppt SCPs dobei, hir Schëlder ze regeneréieren.
+SCP-1576 erlaabt liewende Spiller, fir eng kuerz Zäit mat Zuschauer ze schwätzen.
+SCP-914 kann all Géigestänn änneren, inklusiv Waffen a Munitioun.
+SCP-914 kann Radios an d'Micro H.I.D. oplueden.
+SCP-914 kann eng Rei vun eenzegaartegen Géigestänner schafen, déi soss néierens ze fannen sinn. Fillt Iech fräi ze experimentéieren!
+SCP-079 start relativ schwaach, gëtt awer méi mächteg, wat e Match dauer.
+SCP-079 kann Dieren spären, Luuchten ausschalten an Tesla-Gitter iwwerlaaschten.
+En Tesla-Gitter, dat vum SCP-079 gekuckt gëtt, erschéngt ëmmer als aktiv.
+SCP-079 gëtt mat Generatoren an der Heavy Containment Zone an engem leschte Knäppchen a senger Containment-Kammer erëm ageschloss.
+SCP-079 kann den Zoom vu senge Kameraen mat dem Mausrad änneren.
+Wat méi laang SCP-079 eng Dier gespaart hält, desto méi Energie brauch en, fir se gespaart ze halen.
+SCP-079 späert e Breach Scanner um Niveau 4 op. Wann en e Mënsch erkennt, deen an engem Raum verstäkt, geet en Alarm un.
+Eng Kamera, déi vum SCP-079 benotzt gëtt, glënt blo. Passt op! Dir wësst ni, wéini se kuckt.
+SCP-173 kann sech fräi an donkelen Raim beweegen, och wann en gekuckt gëtt. Bréngt eng Täscheluucht mat!
+SCP-173 kann vun hannen onopfälleg ëmbréngen.
+SCP-173 kann eng Pool erstellen, déi Mënschen verlangsamt, déi duerch si trëppelen - fir eng séier an effizient Gebiichtsverwäertung.
+SCP-106 kann duerch Dieren a Glasfenster goen.
+Am Stalk kann SCP-106 Mënschen an enger kuerzer Reichwäit ronderëm sech gesinn.
+SCP-106 kann eng Kaart vu Raim an der Noperschaft opmaachen fir ze teleportéieren, standardmässig un 'TAB' gebonnen.
+Dem SCP-106 seng Fäegkeete hänken vun enger Ressource namens 'Vigor' of, déi bei all Fäegkeet erofgeet.
+SCP-106 ass am verwandbarsten direkt nodeems en aus dem Buedem opkënnt.
+SCP-096 ass am vulnérabelsten, wann e just ugefaang huet sech ze berouegen.
+SCP-096 kann am Rage-Zoustand no vir kënnen - Dieren briechen an Ziler ëmbréngen.
+SCP-096 zerstéiert Dieren a stavt zougespaart Paarten op, wann en am Rage ass.
+SCP-939 kann d'Stëmmen vu Spiller imitéieren, déi et virdrun ëmbruecht huet.
+SCP-939 kann eng Wollek aus amnestesche Gas verëffentlechen. Mënschen, déi ënner senge Effekter stinn, kënnen SCP-939 net gesinn, bis et ugraff.
+D'Benotzung vun Adrenalin neutraliséiert d'Effekter vum SCP-939 senger amnestescher Wollek.
+Flashbangs si besonnesch effektiv gegen SCP-939.
+Wat dem SCP-939 seng Stamina niddereg ass, desto schlechter ass seng Perceptioun vu Spiller.
+Wat SCP-939 méi laang am Focus ass, desto méi effektiv gëtt Ultrasensitive.
+D'Schrëtt vu SCPs ënnerscheede sech vun deene vun Mënschen. Luusst virsiichteg op!
+Wann Dir vum SCP-049 ugegraff gëtt, kritt e Mënsch en Häerzschlag. Gesondheet a Stamina erofzéien séier an dëser Zäit.
+SCP-049 kann all Mënsch direkt ëmbréngen, deen schonn ënner den Effekter vun engem Häerzschlag steet.
+En Häerzschlag zitt Är Gesondheet séier erof. Dir braucht medezinesch Versuergung, wann Dir et wëllt iwwerliewen.
+SCP-049 kann nëmme Läichen reaniméieren, wann se frësch sinn.
+SCP-049 kann SCP-049-2-Instanzen an der Noperschaft e klenge Schëld ginn.
+SCP-049-2 ass vulnérabel bei Schlässerknäpp.
+SCP-049-2 sinn gutt Scouts a geféierlech an grousser Zuel.
+Déi meescht spielbar SCP-Instanzen hunn eng sekundär Gesondheetsbar, 'Hume Shield' genannt, déi Schued absorbéiert an iwwer d'Zäit regeneréiert.

@@ -1,0 +1,24 @@
+Dës Séil ass net méi bei eis.
+Dës Läich ass ofgelaf.
+Dës Séil gouf ze dacks erëmbelieft.
+Dës Séil wëll net méi erëmbelieft ginn.
+Dës Läich kann net erëmbelieft ginn.
+Dës Läich gouf scho konsuméiert.
+Nëmme mënschlech Läichen kënne konsuméiert ginn.
+GRÄFF-ABKÜHLZÄIT
+Dir hutt eng weider Erweckung vum SCP-049 verweigert!
+Dréckt [key] fir eng weider Erweckung ze verweigeren.
+Kee Zil fonnt.
+Dir sidd schonn op voller Gesondheet.
+Dës Läich gëtt scho konsuméiert.
+Schafft zesumme mat Ären <color=#F00>SCP-Matspiller</color>. Benotzt Är Fäegkeeten, fir eng Hord vu reaniméierte Läichen opzebauen an z'erhalen, fir d'Spillsituatioun zu Äre Gonschten ze kippen.
+Schafft zesumme mat Ären <color=#F00>SCP-Matspiller</color>. Follegt dem <color=#F00>SCP-049 seng</color> Kommandoer an eliminéiert Är Ziler, fir frësch Kierper fir d'Hord ze liwweren.
+Herzinfarkt:Dréckt [key] op e Mënsch an der Noperschaft fir hinnen en Herzinfarkt ze zefügen, deen eventuell zu hirem Doud féiert, wann net rechtzäiteg medezinesch Hëllef geleescht gëtt. Wann d'Affer schonn un engem Herzinfarkt leid, wäert dësen Ugrëff se direkt ëmbréngen.
+De gudde Séil vum Dokter:Dréckt [key] op en Zil an Ärem Bléckfeld fir se ze markéieren, wat Är Bewegungsgeschwindegkeet an Trackfäegkeeten erhéicht.
+Dem Dokter seng Ruff:Dréckt [key] fir Hume-Schild fir SCP-049-2-Instanzen an der Noperschaft ze generéieren.
+Erweckung:Halt [key] op enger viru kuerzem verstuerwener Läich, fir se erëm z'erwecken an an eng SCP-049-2-Instanz ze verwandeln.
+Lobotomiséierte Bluttdurscht:Wärend Dir Mënschen verfollegt, erhéicht sech Är Bewegungsgeschwindegkeet graduell, wann se am Ärem Bléckfeld bleiwen. Dëst gëtt duerch e rout A an der Mëtt vun Ärem Display duergestallt.
+Gier:Dréckt [key] op eng mënschlech Läich fir se ze konsuméieren. D'Konsumatioun vun enger Läich regeneréiert Gesondheet.
+Erwecken
+Halt [key]
+Zagoschlag:Dréckt [key] op e Mënsch an der Noperschaft fir hinnen unzegräifen, wat moderéierte Schued verursaacht.

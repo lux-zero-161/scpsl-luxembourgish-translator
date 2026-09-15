@@ -1,0 +1,48 @@
+Dréckt [key_attack] oder [key_jump] fir ze Lunge.
+Stëmm virschauen (nëmmen Dir héiert dëst)
+-
+Stëmm ewechhuelen (halen)
+Stëmm ofspillen (jidderee kann dëst héieren)
+SCP-939 huet dech ëmbruecht an Är Stëmm geklaut!
+Wann Dir net wëllt, datt Är Stëmm benotzt gëtt, kënnt Dir dës Funktioun ausschalten.
+Erënneren meng Choix
+Läschen
+OK
+Méi Informatioun
+SCP-939 benotzt eng Mechanik, bei där déi lescht Sekonne vun Ärer Voice-Chat-Sendung temporär opgeholl ginn. Dëst kann vun SCP-939 ofgespillt ginn, fir Ziler erauszelackeieren.\nD'Opnamen ginn automatesch verworf, wann Dir de Server verlooss, wann SCP-939 stierft oder bei Ronn-Neistart. D'Ofschalung vun dëser Funktioun entfernt all existent Opname vun Äre Sendungen.
+D'Wollek kann op dëser Positioun net verëffentlecht ginn.
+D'Minimal Wolleksgréisst ass net erreecht. Halt d'Verëffentlechungstast méi laang gedréckt.
+Schafft zesumme mat Ären <color=#F00>SCP-Matspiller</color>. Dir sidd blann a kënnt nëmme Mënschen an enger klenger Noperschaft gesinn, kënnt se awer duerch Audioblips verfollegen. Benotzt Är Fäegkeeten fir Är Ziler ze iwwerfalen, falsch ze dirigéieren an ze verfollegen.
+Kral:Dréckt [key] fir Är Kralen op e Mënsch an der Noperschaft ze zéien, wat moderéierte Schued verursaacht. Dëse Schued gëtt duerch Rëschtung reduzéiert.
+Focus:Halt [key] fir Iech op de Buedem ze leien. Dir kënnt Iech net beweegen, während Dir leet, kritt awer d'Fäegkeet, mat LMB no vir ze sprangen. E Sprong op e Mënsch verursaacht massive Schued a bréngt hinnen dacks direkt ëm.
+Amnestesch Wollek:Halt [key] fir eng onsichtbar Amnestesch Wollek ze verëffentlechen. Mënschen, déi an d'Wollek trëppelen, kënnen dech net gesinn, bis Dir hinnen ugraff.
+Mat Vule Stëmmen:Dir kënnt verschidde Téin imitéieren, inklusiv d'Stëmme vun Ären Affer, iwwer e Menü, deen mat [Tab] opgemaach ka ginn. Benotzt dëst, fir Mënschen ze narren an se an eng Fal ze feieren.
+Ultrasensitive:Dir sidd blann a kënnt nëmmen an enger kuerzer Reichwäit ronderëm dech gesinn. Allerdéngs kënnt Dir Blips gesinn, déi vu Mënschen produzéiert ginn, wann se Toun maachen. Benotzt dës Blips fir Är Ziler ze lokaliséieren.
+-
+Mimik-Punkt setzen
+Positioun vun der Mimik-Tonquell iwwerschreiwen
+Mimik-Punkt ewechhuelen
+Maacht all Téin aus Ärer aktueller Positioun kommen
+Mimik-Punkt gesat!
+Mimik-Punkt ewechgeholl!
+Mimik-Punkt zerstéiert. Dir sidd ausserhalb vun der Reichwäit.
+Gestuel Stëmmen
+-
+Ëmwelt-Mimikry
+-
+(Abkühlzäit: [time]s)
+-
+Personifikatioun
+Schéissen
+Verschiddenes
+-
+-
+Rollen
+Hotkey [key]
+Gewielte Sound ofspillen (jidderee kann dëst héieren)
+Playback stoppen
+Zéien fir d'Opnahm ze kippen
+Favorit em Schalten. Opnamen, déi als Favoritte markéiert sinn, sinn un eng Hotkey gebonnen.
+Zéien fir opnahmen ze reorganiséieren
+Dir hutt d'Stëmm vun Ärem Zil geklaut!
+Sprint:Halt [key] fir Stamina ze verbrauchen a méi séier ze beweegen. Stamina regeneréiert sech, wann Dir ophält ze sprinten. Passt op wéi Dir se benotzt!

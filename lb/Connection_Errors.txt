@@ -1,0 +1,38 @@
+<size=80>DIR SIDD ERABGEKICKT GI</size>\nDe Server war gezwongen d'Verbindung ze stoppen.
+<size=80>VERBINDUNG OFGESCHLOON</size>\nDen spezifizéierten Host ass net verfügbar.
+<size=80>VERBINDUNG OFGESCHLOON</size>\nDéi spezifizéiert Verbindungs-ID existéiert net.
+<size=80>VERBINDUNG OFGESCHLOON</size>\nDe spezifizéierte Kanal existéiert net.
+<size=80>VERBINDUNG OFGESCHLOON</size>\nDe Server ass voll.
+<size=80>VERBINDUNG OFGESCHLOON</size>\nFalscht Paket kritt.
+<size=80>VERBINDUNG OFGESCHLOON</size>\nVerbindung verluer (Timeout).
+<size=80>VERBINDUNG OFGESCHLOON</size>\nVerbindung verluer (Timeout).
+<size=80>VERBINDUNG OFGESCHLOON</size>\nOperatioun gëtt net ënnerstëtzt.
+<size=80>VERBINDUNG OFGESCHLOON</size>\nÄr Spillversion ass anescht wéi déi vum Server.
+<size=80>VERBINDUNG OFGESCHLOON</size>\nOngülteg Server-Konfiguratioun.
+<size=80>VERBINDUNG OFGESCHLOON</size>\nD'Adress ass ongülteg oder konnt net opgeléist ginn.
+<size=80>VERBINDUNG OFGESCHLOON</size>\nEn onerwaart Probleem ass opgetrueden!
+<size=80>WAART W.E.G.</size>\n<size=35>Verbindung gëtt hiergestallt...</size>
+<size=80>RONN NEISTART</size>\n<size=35>D'Ronn start nei...</size>
+<size=80>WAART W.E.G.</size>\n<size=35>Tutorial gëtt gelueden...</size>
+<size=80>VERSIONSINKOMPATIBILITÉIT</size>\nÄr Spillversion ass anescht wéi déi vum Server\n(Client - [your]; Server - [server])
+<size=80>VERBONNE</size>\n<size=35>Den Niveau gëtt gelueden...</size>
+<size=35>D'Facility gëtt gelueden...</size>
+<size=80>VERBINDUNG OFGESCHLOON</size>\nOp dem Server ass en onspezifizéierte Feeler opgetrueden.
+<size=80>VERBINDUNG OFGESCHLOON</size>\nDëse Server verlaangt Authentifikatioun duerch zentral Server.
+<size=80>VERBINDUNG OFGESCHLOON</size>\nDir sidd op dësem Server net wäitgelëscht.
+<size=80>VERBINDUNG OFGESCHLOON</size>\nDir sidd global gebannt.
+<size=80>VERBINDUNG OFGESCHLOON</size>\nDir sidd global gebannt: [reason].
+<size=80>VERBINDUNG OFGESCHLOON</size>\nDir sidd vun dësem Server gebannt.
+<size=80>VERBINDUNG OFGESCHLOON</size>\nDir sidd vun dësem Server gebannt.\nBan verfält: [date] [time]
+<size=80>VERBINDUNG OFGESCHLOON</size>\nÄren Authentifikatiounstoken ass ofgelaf.\nDe Server kéint eng ongülteg Zäit oder Zäitzon hunn.\nKontaktéiert w.e.g. e Serveradministrateur.
+<size=80>VERBINDUNG OFGESCHLOON</size>\nDir sidd rate-limitéiert. Probéiert et an e puer Sekonnen nach eng Kéier.
+<size=80>VERBINDUNG OFGESCHLOON</size>\nDe Server akzeptéiert keng Verbindunge vun Ärer geografescher Positioun.\nDe Servernumm oder d'Serverinfo kann méi Detailer enthalen.
+<size=80>VERBINDUNG OFGESCHLOON</size>\nDir sidd vun enger Servermodifikatioun erausgekickt ginn.\n\nGrond: [reason]\nDëst ass eng Servermodifikatioun, keng Spillfunktioun.\nKontaktéiert en Serveradministrateur fir méi Informatioun.
+<size=80>VERBINDUNG OFGESCHLOON</size>\nÄren Authentifikatiounstoken gouf vum Server ofgeleent.\nStart w.e.g. d'Spill nei a probéiert et nach eng Kéier oder kontaktéiert den technesche Support vum Studio.
+<size=80>VERBINDUNG OFGESCHLOON</size>\nDir sidd vun dësem Server gebannt.\nGrond: [reason]
+<size=80>VERBINDUNG OFGESCHLOON</size>\nDir sidd vun dësem Server gebannt.\nBan verfält: [date] [time]\nGrond: [reason]
+<size=80>Waart w.e.g.</size>\nServersécherheetsverifikatioun gëtt veraarbecht...
+<size=80>VERBINDUNG OFGESCHLOON</size>\nFeeler bei der Veraarbechtung vun der Serversécherheetsverifikatioun.
+<size=80>VERBINDUNG OFGESCHLOON</size>\nD'Veraarbechtung vun der Serversécherheetsverifikatioun war fir de Server ze lues.\nProbéiert et nach eng Kéier oder kontaktéiert de Serveradministrateur.
+<size=80>AUTH-FEELER</size>\nZentralserver-Message: [message].
+<size=80>VERBINDUNG OFGESCHLOON</size>\nDe Server geet aus.

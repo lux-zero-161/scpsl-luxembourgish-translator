@@ -1,0 +1,17 @@
+{
+	"Name": "Lëtzebuergesch",
+	"Authors": [
+		"AI Translation"
+	],
+	"InterfaceLocales": [
+		"lb",
+		"lb-LU"
+	],
+	"SystemLocales": [
+		"lb",
+		"lb-LU"
+	],
+	"ForcedFontOrder": [
+
+	]
+}

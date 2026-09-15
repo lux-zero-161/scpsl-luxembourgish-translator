@@ -1,0 +1,19 @@
+D'Ronn ass eriwwer!
+D'SCPS WINNEN
+FOUNDATION WINNT
+INSURGENCY WINNT
+STALEMATE
+Déi geflücht Subjekten hunn d'Facility iwwerrannt. D'Noutfallaktivéierung gouf ausgeléist.
+All Sécherheetsgeforen goufen neutraliséiert. Site-02 ass erëm sécher.
+All Foundation-Präsenz gouf ausgeschaaft. Operateuren stinn bereet fir weider Uerdnung.
+Site-02 ass ënner bestëmmter Kontroll, awer net ouni Käschten. De Gewënner ass net bestëmmt.
+[summary_d_escaped] class-d geflücht
+[summary_s_escaped] Wëssenschaftler hunn iwwerlieft
+D'Detonatioun vum Alpha-Warhead huet [summary_warhead_kills] Wiese terminéiert.
+Den Alpha-Warhead gouf während dëser Missioun net detonéiert.
+D'Missioun huet [summary_round_minutes] Minutten an [summary_round_seconds] Sekonnen gedauert.
+[summary_scp_terminated] SCPs terminéiert
+Nächst Ronn an [summary_next_round_countdown] Sekonnen.
+D'SCPs hunn [summary_scpfrags] Mënschen ëmbruecht.
+FLAMINGOS WINNEN
+All aner Equipen goufen ausgeschaaft. Total Flamingovictoire gouf erreecht.

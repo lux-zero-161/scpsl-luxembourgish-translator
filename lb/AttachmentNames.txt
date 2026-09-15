@@ -1,0 +1,46 @@
+Keen~Standardoptioun ouni Effekter.
+Eise Këmm~E Puer Ausrichtungsmarkéierungen, déi en einfacht, liicht Zielgerät bilden.
+Punktvisioun~Reflexzielsich ouni Vergréisserung mat engem klenge beliichten Punkt, deen de Viséierpunkt uweist.
+Holografescht Zielsich~Zielsich ouni Vergréisserung mat engem holografesche Reticule. Effektiv am Kämpf op kuerzer Distanz.
+Nuetsvisiouns-Zilsich~Teleskopzielsich mat Nuetsvisiounsgerät. Schwéier, mee effektiv bei alle Luuchtverhältnisser.
+Munitiounszieler-Zielsich~Eise Këmm mat integréiertem Munitiounszielgerät.
+Teleskopzielsich~Schwéier Zielgerät mat optescher Vergréisserung. Perfekt fir laang Distanzen, mee limitéiert d'allgemeng Perceptioun.
+Standard-Schaf~Normale Schaf fir besser Kontroll vun der Waff beim Zielen duerch d'Zielsich.
+Verlängert Schaf~Bessert d'Kontroll vun der Waff beim Zielen, mee erhéicht d'Ausrüschzäit.
+Aneroodlesche Schaf~Mécht d'Waff méi kompakt, wat d'Mobilitéit erhéicht.
+Liichtgewicht Schaf~Reduzéiert d'Gewiicht vun der Waff, mécht awer de Recoil beim Zielen méi schwéier ze kontrolléieren.
+Schwéiere Schaf~Erhéicht Gewiicht reduzéiert d'Mobilitéit, mécht d'Waff awer stabiler beim Zielen.
+Recoil-reduzierende Schaf~Schaf mat engem System, deen probéiert d'Kraaft tëscht de Schëss ze verdeelen.
+Virgrëff~Vertikale virde Greff. Mécht et méi einfach de Muzzle-Rise ze kontrolléieren.
+Laserzielsich~Gëtt e visuelle Referenzpunkt op d'Zil, wat beim Hip-Firing hëlleft, mee kann Är Positioun verroden.
+Täscheluucht~Ausschaltbar Luuchtenquell. Erhéicht d'Gesamtgewiicht vun der Waff, kann awer an donkelen Beräicher Liewen retten.
+Munitiounszieler~Munitiounszielgerät. Experimentell Technologie, déi sech als nëtzlech erwisen huet, besonnesch mat Magazine mat grousser Kapazitéit.
+Standard-Laf~Konventionelle Laf ouni Muffegerät.
+Verlängert Laf~Verbessert d'Gesamtfeierkraaft, droen awer zu gerénger Mobilitéit wéinst erhéichtem Gewiicht a Längt bäi.
+Schalldämpfer~Soundmoderator. Reduzéiert d'Lautstäerkt vu Schëss, erhéicht awer d'Gesamtgewiicht an d'Längt vun der Waff.
+Blëtzhëllef~Eliminéiert de Muzzle-Flash. Mécht et méi einfach am Däischteren ze schéissen.
+Muzzle-Brems~Recoil-Kompensator. Benotzt Dreckgasen fir de Recoil ze reduzéieren, erhéicht awer d'akustesch Intensitéit vun de Schëss.
+Muzzle-Booster~Verbessert d'Feuerrate, wat zu méi Schued pro Sekonn féiert, mee d'Waff ass méi schwéier ze kontrolléieren.
+FMJ-Magazin~Standardmagazin mat Vollmantelgeschosser.
+AP-Magazin~Standardmagazin mat Panzerbriechgeschosser.
+JHP-Magazin~Standardmagazin mat Hohlspëtzgeschosser.
+Verlängert FMJ-Magazin~Verlängert Magazin mat Vollmantelgeschosser.
+Verlängert AP-Magazin~Verlängert Magazin mat Panzerbriechgeschosser.
+Verlängert JHP-Magazin~Verlängert Magazin mat Hohlspëtzgeschosser.
+FMJ-Trommel~Magazin mat grousser Kapazitéit mat Vollmantelgeschosser.
+AP-Trommel~Magazin mat grousser Kapazitéit mat Panzerbriechgeschosser.
+JHP-Trommel~Magazin mat grousser Kapazitéit mat Hohlspëtzgeschosser.
+FMJ-Magazin (kleng Kapazitéit)~Magazin mat klenger Kapazitéit mat Vollmantelgeschosser.
+AP-Magazin (kleng Kapazitéit)~Magazin mat klenger Kapazitéit mat Panzerbriechgeschosser.
+JHP-Magazin (kleng Kapazitéit)~Magazin mat klenger Kapazitéit mat Hohlspëtzgeschosser.
+5-Schëss Zylinder~Hält manner Patrounen, kann awer méi Schued gegen gepanzert Feinden zufügen.
+6-Schëss Zylinder~De klassesche Six-Shooter.
+7-Schëss Schrot Zylinder~Gefëllt mat Flinte-Patrounen, effektiv op kuerzer Distanz.
+Carbine-Uewerempfänger~Normalen Carbine-Uewerempfänger, deen e gudde Kompromëss tëscht Feierkraaft a Mobilitéit duerstellt.
+Gewier-Uewerempfänger~Vollgrouss Uewerempfänger verbessert Feierkraaft a Präzisioun, mee e méi schwéier Gasystem reduzéiert d'Feuerrate.
+Kuerze Laf~Verkeerzt Versioun vum Standardlaf, benotzt fir d'Ziehzäit an d'Mobilitéit ze verbesseren.
+Chok~Erhéicht de Gesamtradius vum Streuung, verbessert awer d'Konsistenz vum Muster.
+Verlängert Laf~Reduzéiert liicht de Streuungsradius, erhéicht awer d'Gesamtgewiicht an d'Längt vun der Waff.
+Kee Schaf~Kuerz Konfiguratioune bidden héich Mobilitéit, mee d'Ewechhuele vu Schëfter bei engem Gewier mat héijem Recoil ass net ëmmer déi bescht Iddi.
+Eenzelschousssystem~Standardsystem. Eng Zuch op den Ausléiser féiert zu engem Schouss.
+Duebelschousssystem~Modifizéierten Ausléiser, dee béid Searë mat engem eenzege Zuch aktivéiert.
