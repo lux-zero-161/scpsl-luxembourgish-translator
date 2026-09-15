@@ -21,7 +21,9 @@ Dës Iwwersetzung mécht déi ganz Spillinterface op Lëtzebuergesch verfügbar.
 
 ## Team
 
-Dës Iwwersetzung ass eng generéiert AI-Iwwersetzung. Wann Dir Verbesserunge wëllt bäisteieren, ännert einfach déi entspriechend `.txt`-Dateien.
+Dës Iwwersetzung gouf deelweis mat Hëllef vun AI generéiert an deelweis vum Ersteller selwer geschriwwen an iwwerschafft. De Repository gouf vum Ersteller erstallt, an e groussen Deel vum Code an den Inhalter gouf och vum Ersteller selwer entwéckelt a geschriwwen.
+
+Wann Dir Verbesserunge fannt oder bäidroe wëllt, kënnt Dir déi entspriechend `.txt`-Dateien einfach änneren.
 
 ## Locales
 
