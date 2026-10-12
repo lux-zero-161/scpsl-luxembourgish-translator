@@ -7,7 +7,7 @@
 6~Containment-Ingenieur-Zougangskaart
 7~MTF-Operateur-Zougangskaart
 8~MTF-Offizéier-Zougangskaart
-9~Facility-Manager-Zougangskaart
+9~Anlag-Manager-Zougangskaart
 10~Chaos Insurgency Zougrëffsapparat
 11~O5-Niveau Zougangskaart
 12~Radio~Erlaabt Kommunikatioun iwwer laang Distanzen tëscht Apparater. D'Reichwäit ka justéiert ginn.

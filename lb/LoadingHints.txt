@@ -1,7 +1,7 @@
 Dir kënnt e Spiller disarméieren, andeems Dir mat hinnen interagéiert, während Dir eng Waff hält.
 Et gi véier Haaptzonen an der Anlag: Liicht Verwahrung, Schwéier Verwahrung, Entrée an Uewerfläch.
 Wëssenschaftler a Class-D mussen op d'Uewerfläch kommen, fir ze flüchten.
-Facility-Wuechten si kierperlech schwaach, hunn awer Kraaft an der Zuel. Bleift zesummen!
+Anlagwuechten si kierperlech schwaach, hunn awer Kraaft an der Zuel. Bleift zesummen!
 Är Ausdauer ass eng wäertvoll Ressource, haalt e bëssen fir Noutfäll zeréck!
 D'Entrée-Zon huet zwou Paarte mat Zougang op d'Uewerfläch. Dir braucht eng Zougangskaart, fir se opzemaachen.
 D'Benotzung vun engem Lift ass e séieren an einfache Wee fir déi meescht SCPs ze flüchten.
@@ -23,7 +23,7 @@ D'Droe vu Kierperrëschtung erhéicht d'Zuel vun de Géigestänn a Munitioun, d�
 Panzerbriechend Munitioun (AP) ass am beschten gegen gepanzert Ziler.
 Hohlspëtz Munitioun (JHP) verursaacht méi Schued un net gepanzerten Ziler, ass awer méi schwaach gegen Panzerung.
 Dréckt a halt d'Reload-Tast fir eng Waff ze entlueden, wat seng Munitioun zu Ärem Inventar zefügt.
-Chaos Insurgency Waffe si mächteg, awer hir Munitioun spawnéiert net an der Facility. Maacht se zielen.
+Chaos Insurgency Waffe si mächteg, awer hir Munitioun spawnéiert net an der Anlag. Maacht se zielen.
 Granate kënne benotzt gi fir Dieren ze zerstéieren.
 Granate kënnen mat manner Kraaft mat der rietser Maustast geworf ginn.
 D'Micro H.I.D. kann déi meescht SCPs ganz séier ëmbréngen, huet awer eng begrenzten Energieversuergung. Benotzt se virsiichteg!

@@ -1,101 +1,101 @@
-BÄITRIEDEN
-ZOULOSEN
-SCHIMMERAUFLÖSUNG
-ASTELLUNGEN
-BASÉIERT OP <i>SCP: CONTAINMENT BREACH</i>
-ZRËCK
-SPROOCH
-ANTIALIASING
-Detailer änneren:\n-PIXEL LICHT COUNT - Maximal Zuel vu Luuchtenquellen, déi hire Luucht op eenzele Pixel gerechent ginn.\n-V-Sync - Aktivéiert d'Synchronisatioun mat der Erfrëschungsrate vum Displaygerät.
-SPILL BÄITRIEDEN
-POST\nPROCESSING
-CREDITEN
-SPILL VERLOOSSEN
-Vollbildmodus
-BILDSCHIRMASTELLUNGEN
-FARWKORREKTUR
-IP-Adress aginn...
-BILDSCHIRMOPLÉISUNG
-SPILLEN
-PIXEL LICHT COUNT
-SCHIMMERTYP
-SCHIMMEREN
-SPILL ERSCHAFEN
-Nobeaarbechtungsastellunge änneren. Dës Astellungen beaflossen d'Leeschtung normalerweis net; et gëtt recommandéiert, d'Standardwäerter ze loossen.
-Luuchterrechnungsmodus:\nWann aus, gëtt d'Grafikqualitéit bedeitend reduzéiert. Dës Astellung auszeschalten gëtt nëmme fir Computeren mat niddreger Leeschtung recommandéiert.
-V-SYNC
-VERBANNEN
-QUALITÉITSASTELLUNGEN
-Schimmervirléiften änneren. Dës Slider op niddregere Wäerter ze setzen kann d'Spillflüssegkeet erhéijen.
-HAUPTMENÜ
-LUUCHT RENDEREN
-BEWEGUNGSONSCHÄRFT
-SCHIMMERDISTANZ
-DETAILER
-3. SCP-914
-TUTORIALS
-WARNUNG
-Verfügbar Server iwwerbléien
-Net méi weisen
-Wéi wëllt Dir Iech verbannen?
-SERVER-IWWERSIICHT
-OKAY
-RONN FANNEN
-2. Waffe benotzen
-Mir benotzen Discord als Forum. Kee Installatioun néideg.\n(Klickt op de Logo fir bäizetrieden)
-Standardmässig riicht de Server dech um lokale Netzwierk op.\nÄr Frënn brauchen déi direkt IP-Adress fir sech ze verbannen.\nWann Dir en ëffentleche Server opriichte wëllt, wielt LocalAdmin.exe an follegt d'Instruktiounen.\nWann Dir Froen hutt, kontaktéiert w.e.g. eisen technesche Support (Link am Haaptmenü).
-1. D'Basics
-Déi presentéiert Spill ass nach an enger öffentlecher Beta.\nDir kënnt Verbindungsproblemer a vill aner Bugs erliewen.\nDen aktuellen Zoustand reflektéiert net déi final Versioun.
-4. (méi Tutorials kommen nach)
-DIREKT VERBANNEN
-TECHNESCH ËNNERSTËTZUNG / FORUM
-TOUNLAUTSTÄERK
-Gitt d'IP-Adress vum spezifesche Server an.
-DOWNLOADEN
-KENG SERVER VERFÜGBAR
-DRÉCKT ESC FIR ZOULOSEN / OFZEBRIECHEN
-TASTENZOUERDNUNG
-MAX BLUTMASS
-FPS-Limit
-FPS-Limit funktionnéiert net, wann vSync aktivéiert ass!
-Standard setzen
-Mir benotzen Steam Discussions als Forum. (Klickt op de Logo ënnendrënner fir de Forum opzemaachen)
-AUDIOASTELLUNGEN
-HAAPTLAUTSTÄERK
-MENÜMUSIK
-STËMM-CHAT
-TON-EFFEKTER
-SPILLMECHANIK-OPTIOUNEN
-SCHNELL INTRO FADE
-Den Introtext vun der Klass verschwënnt vill méi séier.
-SCP-079 - SIICHTMODUS UM-/AUSSCHALTEN
-Dréckt eemol fir tëscht de Kamera-Modi ze wiesselen.
-SCP-079 - NOBEAARBECHTUNG
-Wann desaktivéiert, ginn d'Kameraeffekter staark reduzéiert.
-KAPP-BEWEGUNG
-Aktivéiert d'First-Person Kamera-Beweegung während der Bewegung.
-SPRINT UM-/AUSSCHALTEN
-Sprinten schalt un an aus, anstatt gehalen ze ginn.
-SEPARATEN ARTIFIZIELLEN HP-BAR
-Gëtt artifiziell HP en eegene Gesondheetsbalke, anstatt en Overlay.
-Eis Iwwersetzunge sinn Open-Source op GitHub!\nWëllt Dir hëllefen? Klickt hei fir op d'Repo ze kommen.
-RICH PRESENCE
-Wann aktivéiert, gëtt Äre Status op Discord/Steam ugewisen.
-EXAKT HP-WÄERT WEISEN
-Weist exakt HP un, anstatt just de Prozentsaz.
-ËFFENTLECH LOBBY
-Wann aktivéiert, kënnen Är Steam-Frënn bäitrieden ouni Erlaabnis.
-IP VERSTOPPEN
-Wann aktivéiert, gëtt all IP an der Client-Konsole net ugewisen.
-SUCHEN UM-/AUSSCHALTEN
-Beim Ophiewen vu Géigestänn ass keng gehalen Tast néideg; dréckt nach eng Kéier fir ofzebriechen.
-Gëtt mëll Schatten op Ecken an enken Beräicher, fir de Modeller méi Déift ze ginn.
-Gëtt der Ëmwelt méi Déift op Käschte vun enger héijer Leeschtung.
-Gëtt der Luucht méi Déift, andeems en Glanz baséiert op der Luuchtintensitéit applizéiert gëtt.
-Um-/Ausschalter fir Ënnertitele vun de CASSIE-Ukënnegungen ze weisen.
-Blénkt d'Taskbar, wann Dir spawnen, während d'Spill net am Fokus ass.
-Glätt Linnen an entfernt visuell Verzerrungen.
-Synchroniséiert d'Bildrate vum Spill mat der Erfrëschungsrate vun Ärem Monitor, fir Bildrësser ze vermeiden.
-Projektéiert Texturen wéi Kugellächer oder Blutsprëtzer.
-Donkelmodus em Schalten
-Um-/Ausschalter, fir e puer hell Elementer op hir donkel Theme-Versiounen ze wiesselen.
+<color=#FF8E00>SPILLEN</color>
+<color=#43C6FF>ZOUMACHEN</color>
+<color=#B58CFF>SCHATTENOPLÉISUNG</color>
+<color=#FF5C8A>ASTELLUNGEN</color>
+<color=#55D6A7>BASÉIERT OP <i>SCP: CONTAINMENT BREACH</i></color>
+<color=#FFD166>ZERÉCK</color>
+<color=#63A4FF>SPROOCH</color>
+<color=#FF78C8>KANTENGLÄTTUNG</color>
+<color=#8BD450>Detailer änneren:\n-Liichtquellen pro Pixel – Maximal Zuel u Liichtquellen, déi op eenzele Pixel berechent ginn.\n-V-Sync – Synchroniséiert d’Bildrate mam Écran.</color>
+<color=#F28C45>MATSPILLEN</color>
+<color=#FF8E00>NOBEAARBECHTUNG</color>
+<color=#43C6FF>CREDITEN</color>
+<color=#B58CFF>SPILL VERLOOSSEN</color>
+<color=#FF5C8A>Vollbildmodus</color>
+<color=#55D6A7>BILDSCHIRMASTELLUNGEN</color>
+<color=#FFD166>FAARFKORREKTUR</color>
+<color=#63A4FF>IP-Adress aginn...</color>
+<color=#FF78C8>BILDSCHIRMOPLÉISUNG</color>
+<color=#8BD450>SPILLEN</color>
+<color=#F28C45>LIICHTQUELLEN PRO PIXEL</color>
+<color=#FF8E00>SCHATTENTYP</color>
+<color=#43C6FF>SCHATTEN</color>
+<color=#B58CFF>SPILL ERSTELLEN</color>
+<color=#FF5C8A>Nobeaarbechtungsastellunge änneren. Dës Astellungen beaflossen d'Leeschtung normalerweis net; et gëtt recommandéiert, d'Standardwäerter ze loossen.</color>
+<color=#55D6A7>Luuchterrechnungsmodus:\nWann aus, gëtt d'Grafikqualitéit bedeitend reduzéiert. Dës Astellung auszeschalten gëtt nëmme fir Computeren mat niddreger Leeschtung recommandéiert.</color>
+<color=#FFD166>V-SYNC</color>
+<color=#63A4FF>VERBANNEN</color>
+<color=#FF78C8>QUALITÉITSASTELLUNGEN</color>
+<color=#8BD450>Schimmervirléiften änneren. Dës Slider op niddregere Wäerter ze setzen kann d'Spillflüssegkeet erhéijen.</color>
+<color=#F28C45>HAUPTMENÜ</color>
+<color=#FF8E00>LUUCHT RENDEREN</color>
+<color=#43C6FF>BEWEGUNGSONSCHÄRFT</color>
+<color=#B58CFF>SCHIMMERDISTANZ</color>
+<color=#FF5C8A>DETAILER</color>
+<color=#55D6A7>3. SCP-914</color>
+<color=#FFD166>TUTORIALS</color>
+<color=#63A4FF>WARNUNG</color>
+<color=#FF78C8>Verfügbare Server duerchsichen</color>
+<color=#8BD450>Net méi weisen</color>
+<color=#F28C45>Wéi wëllt Dir Iech verbannen?</color>
+<color=#FF8E00>SERVERLËSCHT</color>
+<color=#43C6FF>OKAY</color>
+<color=#B58CFF>RONN FANNEN</color>
+<color=#FF5C8A>2. Waffe benotzen</color>
+<color=#55D6A7>Mir benotzen Discord als Forum. Kee Installatioun néideg.\n(Klickt op de Logo fir bäizetrieden)</color>
+<color=#FFD166>Standardmässig riicht de Server dech um lokale Netzwierk op.\nÄr Frënn brauchen déi direkt IP-Adress fir sech ze verbannen.\nWann Dir en ëffentleche Server opriichte wëllt, wielt LocalAdmin.exe an follegt d'Instruktiounen.\nWann Dir Froen hutt, kontaktéiert w.e.g. eisen technesche Support (Link am Haaptmenü).</color>
+<color=#63A4FF>1. D'Basics</color>
+<color=#FF78C8>Déi presentéiert Spill ass nach an enger öffentlecher Beta.\nDir kënnt Verbindungsproblemer a vill aner Bugs erliewen.\nDen aktuellen Zoustand reflektéiert net déi final Versioun.</color>
+<color=#8BD450>4. (méi Tutorials kommen nach)</color>
+<color=#F28C45>DIREKT VERBANNEN</color>
+<color=#FF8E00>TECHNESCH ËNNERSTËTZUNG / FORUM</color>
+<color=#43C6FF>TONLAUTSTÄERK</color>
+<color=#B58CFF>Gitt d'IP-Adress vum spezifesche Server an.</color>
+<color=#FF5C8A>DOWNLOADEN</color>
+<color=#55D6A7>KEE SERVER VERFÜGBAR</color>
+<color=#FFD166>DRÉCKT ESC FIR ZOUMACHEN / OFZEBRIECHEN</color>
+<color=#63A4FF>TASTENZOUWEISUNG</color>
+<color=#FF78C8>MAXIMALE BLUTTMASS</color>
+<color=#8BD450>FPS-Limit</color>
+<color=#F28C45>D’FPS-Limit funktionéiert net, wann V-Sync ageschalt ass!</color>
+<color=#FF8E00>Standard setzen</color>
+<color=#43C6FF>Mir benotzen Steam Discussions als Forum. (Klickt op de Logo ënnendrënner fir de Forum opzemaachen)</color>
+<color=#B58CFF>AUDIOASTELLUNGEN</color>
+<color=#FF5C8A>HAAPTLAUTSTÄERK</color>
+<color=#55D6A7>MENÜMUSIK</color>
+<color=#FFD166>STËMM-CHAT</color>
+<color=#63A4FF>TON-EFFEKTER</color>
+<color=#FF78C8>SPILLMECHANIK-OPTIOUNEN</color>
+<color=#8BD450>SCHNELL INTRO FADE</color>
+<color=#F28C45>Den Introtext vun der Klass verschwënnt vill méi séier.</color>
+<color=#FF8E00>SCP-079 - SIICHTMODUS UM-/AUSSCHALTEN</color>
+<color=#43C6FF>Dréckt eemol fir tëscht de Kamera-Modi ze wiesselen.</color>
+<color=#B58CFF>SCP-079 - NOBEAARBECHTUNG</color>
+<color=#FF5C8A>Wann desaktivéiert, ginn d'Kameraeffekter staark reduzéiert.</color>
+<color=#55D6A7>KAPP-BEWEGUNG</color>
+<color=#FFD166>Aktivéiert d'First-Person Kamera-Beweegung während der Bewegung.</color>
+<color=#63A4FF>SPRINT UM-/AUSSCHALTEN</color>
+<color=#FF78C8>Sprinten schalt un an aus, anstatt gehalen ze ginn.</color>
+<color=#8BD450>SEPARATEN ARTIFIZIELLEN HP-BAR</color>
+<color=#F28C45>Gëtt artifiziell HP en eegene Gesondheetsbalke, anstatt en Overlay.</color>
+<color=#FF8E00>Eis Iwwersetzunge sinn Open-Source op GitHub!\nWëllt Dir hëllefen? Klickt hei fir op d'Repo ze kommen.</color>
+<color=#43C6FF>AKTIVITÉITSSTATUS</color>
+<color=#B58CFF>Wann aktivéiert, gëtt Äre Status op Discord/Steam ugewisen.</color>
+<color=#FF5C8A>EXAKT HP-WÄERT WEISEN</color>
+<color=#55D6A7>Weist exakt HP un, anstatt just de Prozentsaz.</color>
+<color=#FFD166>ËFFENTLECH LOBBY</color>
+<color=#63A4FF>Wann aktivéiert, kënnen Är Steam-Frënn bäitrieden ouni Erlaabnis.</color>
+<color=#FF78C8>IP VERSTOPPEN</color>
+<color=#8BD450>Wann aktivéiert, gëtt all IP an der Client-Konsole net ugewisen.</color>
+<color=#F28C45>SUCHEN UM-/AUSSCHALTEN</color>
+<color=#FF8E00>Beim Ophiewen vu Géigestänn ass keng gehalen Tast néideg; dréckt nach eng Kéier fir ofzebriechen.</color>
+<color=#43C6FF>Gëtt mëll Schatten op Ecken an enken Beräicher, fir de Modeller méi Déift ze ginn.</color>
+<color=#B58CFF>Gëtt der Ëmwelt méi Déift op Käschte vun enger héijer Leeschtung.</color>
+<color=#FF5C8A>Gëtt der Luucht méi Déift, andeems en Glanz baséiert op der Luuchtintensitéit applizéiert gëtt.</color>
+<color=#55D6A7>Um-/Ausschalter fir Ënnertitele vun de CASSIE-Ukënnegungen ze weisen.</color>
+<color=#FFD166>Blénkt d'Taskbar, wann Dir spawnen, während d'Spill net am Fokus ass.</color>
+<color=#63A4FF>Glätt Linnen an entfernt visuell Verzerrungen.</color>
+<color=#FF78C8>Synchroniséiert d'Bildrate vum Spill mat der Erfrëschungsrate vun Ärem Monitor, fir Bildrësser ze vermeiden.</color>
+<color=#8BD450>Projektéiert Texturen wéi Kugellächer oder Blutsprëtzer.</color>
+<color=#F28C45>Donkelmodus em Schalten</color>
+<color=#FF8E00>Um-/Ausschalter, fir e puer hell Elementer op hir donkel Theme-Versiounen ze wiesselen.</color>

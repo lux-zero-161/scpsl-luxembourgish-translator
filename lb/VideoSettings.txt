@@ -8,12 +8,12 @@ Aktivéiert
 Desaktivéiert
 Schatten
 Schattenopléisung
-Facility Luuchten
+Anlag Luuchten
 Opléisung
 Säiteverhältnis
 Displaymodus
 Max. FPS
-Anti-Aliasing
+Kantenglättung
 V-Sync
 Decals
 Texturqualitéit

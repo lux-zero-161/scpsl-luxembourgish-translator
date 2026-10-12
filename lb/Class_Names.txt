@@ -1,25 +1,25 @@
 SCP-173
 Class-D-Personal
-Spectateur
+Zuschauer
 SCP-106
-Nine-Tailed Fox Specialist
+Nënteschwänzeger-Fuuss-Spezialist
 SCP-049
 Wëssenschaftler
 SCP-079
-Chaos Insurgency Konskript
+Chaos-Insurgency-Rekrut
 SCP-096
 SCP-049-2
-Nine-Tailed Fox Sergeanten
-Nine-Tailed Fox Offizéier
-Nine-Tailed Fox Private
-Tutorial
-Facility-Wuecht
+Nënteschwänzeger-Fuuss-Sergeanten
+Nënteschwänzeger-Fuuss-Offizéier
+Nënteschwänzeger-Fuuss-Gefreiten
+Tutorial-Spiller
+Anlagwuecht
 SCP-939
 -
-Chaos Insurgency Gewiéermänn
-Chaos Insurgency Marauder
-Chaos Insurgency Repressor
-Overwatch
+Chaos-Insurgency-Schütze
+Chaos-Insurgency-Marauder
+Chaos-Insurgency-Repressor
+Iwwerwaachung
 Filmmaacher
 SCP-3114
 Zerstéiert

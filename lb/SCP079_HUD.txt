@@ -52,7 +52,7 @@ $LOCKDOWN$ elo verfügbar - dréckt $[key]$ fir all Dieren an engem Raum tempor�
 +[amount] EXP - Benotzung vun der Micro H.I.D. verhënnert
 DÉIERSPÄR SCHON AKTIV
 ZONWÄIT BLACKOUT ([cost])
-$ZONWÄIT BLACKOUT$ elo verfügbar - nächst un de Zonlabelen op der $Facility-Kaart$.
+$ZONWÄIT BLACKOUT$ elo verfügbar - nächst un de Zonlabelen op der $Anlag-Kaart$.
 ZONWÄIT-BLACKOUT-ABKÜHLZÄIT
 BLACKOUT SCHON AKTIV
 BLACKOUT NET VERFÜGBAR FIR DËS ZON
@@ -63,12 +63,12 @@ ZIVILIST
 MILITÄRESCH
 LAUTSPRECHER BENOTZEN
 ELEVATORZOUGANG VERWEIGERT
-Hëlleft Ären <color=#F00>SCP-Matspiller</color>. Benotzt d'Facility-Systemer géint Mënschen, fir Ärem Team Kills ze sécheren a wichteg Intelligenz ze liwweren. Erhéicht Ären Access Tier, andeems Dir dës Aktiounen ausféiert, fir nei Fäegkeeten ze entspären.
-Praktesch onzeséierbar:Dir kënnt nëmme besiegt ginn, wann all Är SCP-Matspiller ëmbruecht sinn, oder wann Mënschen all dräi Generatoren aktivéieren an d'Facility Overcharge ausléisen. Raim mat aktive Generatoren ginn op Ärer Kaart markéiert. Är Matspiller mussen se desaktivéieren fir ze verhënneren, datt Dir zougemaach gëtt.
+Hëlleft Ären <color=#F00>SCP-Matspiller</color>. Benotzt d'Anlag-Systemer géint Mënschen, fir Ärem Team Kills ze sécheren a wichteg Intelligenz ze liwweren. Erhéicht Ären Access Tier, andeems Dir dës Aktiounen ausféiert, fir nei Fäegkeeten ze entspären.
+Praktesch onzeséierbar:Dir kënnt nëmme besiegt ginn, wann all Är SCP-Matspiller ëmbruecht sinn, oder wann Mënschen all dräi Generatoren aktivéieren an d'Anlag Overcharge ausléisen. Raim mat aktive Generatoren ginn op Ärer Kaart markéiert. Är Matspiller mussen se desaktivéieren fir ze verhënneren, datt Dir zougemaach gëtt.
 Hëllefskraaft:D'Benotzung vun Äre Fäegkeeten verbraucht Hëllefskraaft (AP). AP gëtt als Meter ënne riets op Ärem Display ugewisen a regeneréiert passiv. Dir kënnt verfügbar Fäegkeeten an hir AP-Käschten uewen riets op Ärem Display gesinn.
 Tiif Léieren:D'Assistenz vun Äre Matspiller beim Ëmbréngen vu Mënschen gëtt Iech Erfarung (EXP). EXP gëtt Iech Fortschrëtt Richtung nächsten Access Tier, deen Iech nei Fäegkeete gewäert. EXP-Gewënn an Niveau-Erhéijungen ginn ënne lénks op Ärem Display ugewisen.
-Overwatch:Dir kuckt a beweegt dech duerch d'Facility iwwer Kameraen. Dréckt [key] op eng Kamera-Ikone fir op déi Kamera ze wiesselen, oder öffnet d'Kaart mat Tab fir op d'Kamera vun engem spezifesche Raum ze wiesselen.
-$BREACH SCANNER$ elo verfügbar - wielt Equipe(n)/Zonen op der $Facility-Kaart$, fir periodesch no verbleiwen Iwwerliewenden ze scannen.
+Iwwerwaachung:Dir kuckt a beweegt dech duerch d'Anlag iwwer Kameraen. Dréckt [key] op eng Kamera-Ikone fir op déi Kamera ze wiesselen, oder öffnet d'Kaart mat Tab fir op d'Kamera vun engem spezifesche Raum ze wiesselen.
+$BREACH SCANNER$ elo verfügbar - wielt Equipe(n)/Zonen op der $Anlag-Kaart$, fir periodesch no verbleiwen Iwwerliewenden ze scannen.
 AP-REGEN SUSPENDÉIERT
 AP-REGEN REDUZÉIERT ([precentage])
 Déierspär aktiv

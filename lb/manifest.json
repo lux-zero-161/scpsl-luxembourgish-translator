@@ -1,7 +1,7 @@
 {
 	"Name": "Lëtzebuergesch",
 	"Authors": [
-		"AI Translation"
+		"Lëtzebuergesch Iwwersetzung"
 	],
 	"InterfaceLocales": [
 		"lb",
@@ -11,7 +11,5 @@
 		"lb",
 		"lb-LU"
 	],
-	"ForcedFontOrder": [
-
-	]
+	"ForcedFontOrder": []
 }

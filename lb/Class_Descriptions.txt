@@ -1,24 +1,24 @@
 Doud.All Mënschen ëmbréngen.\nFlucht verhënneren.\nKooperéiert mat aneren <color=#F00>SCPs.</color><color=#FFFF00>\nHalt a loosst Är Maustast lass, während Dir observéiert gëtt, fir ze blénken.\n Blénkt op Mënschen fir se ëmzebréngen.\nWann Dir net observéiert sidd, klickt op Mënschen an der Noperschaft fir se ëmzebréngen.</color>
-Flucht aus der Facility.\nKooperéiert mat der <color=#008F1e>Chaos Insurgency.</color>\nMëlt aner Équipen.
+Flucht aus der Anlag.\nKooperéiert mat der <color=#008F1e>Chaos Insurgency.</color>\nMëlt aner Équipen.
 Dir wäert geschwëm respawnen.
 Doud.All Mënschen ëmbréngen.\nFlucht verhënneren.\nKooperéiert mat aneren <color=#F00>SCPs.</color><color=#FFFF00>\nDir kënnt duerch Dieren goen.\nLénks klicken fir unzegräifen an Mënschen an Är Dimensioun ze zéien.\nDréckt Shift fir am Buedem ënnerzegoen an Äre Schëld ze regeneréieren.</color>
-Hëlt d'Facility vun feindleche Kräften zréck.\nSchafft zesumme mat <color=#5B6370>Facility-Wuechten</color> an aneren <color=#0096FF>MTF-Operateuren</color>.
+Hëlt d'Anlag vun feindleche Kräften zréck.\nSchafft zesumme mat <color=#5B6370>Anlagwuechten</color> an aneren <color=#0096FF>MTF-Operateuren</color>.
 Doud.All Mënschen ëmbréngen.\nFlucht verhënneren.\nKooperéiert mat aneren <color=#F00>SCPs.</color><color=#FFFF00>\nLénks klicken fir Mënschen unzegräifen, mat Doud an zwee Treffer.\nInteragéiert mat enger frëschem Läich fir se als Alliéierten erëm z'erwecken.</color>
-Flucht aus der Facility.\nKooperéiert mat <color=#5B6370>Facility-Wuechten</color> an <color=#0096FF>MTF-Operateuren.</color>\nMëlt aner Équipen.
+Flucht aus der Anlag.\nKooperéiert mat <color=#5B6370>Anlagwuechten</color> an <color=#0096FF>MTF-Operateuren.</color>\nMëlt aner Équipen.
 Doud.All Mënschen ëmbréngen.\nFlucht verhënneren.\nKooperéiert mat aneren <color=#F00>SCPs.</color>
-Eruewert d'Facility an eliminéiert <color=#0096FF>Foundation-Personal</color>.\nSchafft zesumme mat aneren <color=#008F1E>Chaos Insurgenten</color>.
+Eruewert d'Anlag an eliminéiert <color=#0096FF>Foundation-Personal</color>.\nSchafft zesumme mat aneren <color=#008F1E>Chaos Insurgenten</color>.
 Doud.All Mënschen ëmbréngen.\nFlucht verhënneren.\nKooperéiert mat aneren <color=#F00>SCPs.</color>
 Doud.All Mënschen ëmbréngen.\nFlucht verhënneren.\nKooperéiert mat aneren <color=#F00>SCPs.</color><color=#FFFF00>\nLénks klicken fir Mënschen unzegräifen.</color>
-Hëlt d'Facility vun feindleche Kräften zréck.\nSchafft zesumme mat <color=#5B6370>Facility-Wuechten</color> an aneren <color=#0096FF>MTF-Operateuren</color>.
-Hëlt d'Facility vun feindleche Kräften zréck.\nSchafft zesumme mat <color=#5B6370>Facility-Wuechten</color> an aneren <color=#0096FF>MTF-Operateuren</color>.
-Hëlt d'Facility vun feindleche Kräften zréck.\nSchafft zesumme mat <color=#5B6370>Facility-Wuechten</color> an aneren <color=#0096FF>MTF-Operateuren</color>.
+Hëlt d'Anlag vun feindleche Kräften zréck.\nSchafft zesumme mat <color=#5B6370>Anlagwuechten</color> an aneren <color=#0096FF>MTF-Operateuren</color>.
+Hëlt d'Anlag vun feindleche Kräften zréck.\nSchafft zesumme mat <color=#5B6370>Anlagwuechten</color> an aneren <color=#0096FF>MTF-Operateuren</color>.
+Hëlt d'Anlag vun feindleche Kräften zréck.\nSchafft zesumme mat <color=#5B6370>Anlagwuechten</color> an aneren <color=#0096FF>MTF-Operateuren</color>.
 Fëllt d'Opgaben aus fir Äert Zil z'erreechen.
-Hëlt d'Facility vun feindleche Kräften zréck.\nSchafft zesumme mat <color=#0096FF>MTF-Operateuren</color> an aneren <color=#5B6370>Facility-Wuechten</color>.
+Hëlt d'Anlag vun feindleche Kräften zréck.\nSchafft zesumme mat <color=#0096FF>MTF-Operateuren</color> an aneren <color=#5B6370>Anlagwuechten</color>.
 Doud.All Mënschen ëmbréngen.\nFlucht verhënneren.\nKooperéiert mat aneren <color=#F00>SCPs.</color>
 Doud.All Mënschen ëmbréngen.\nFlucht verhënneren.\nKooperéiert mat aneren <color=#F00>SCPs.</color>
-Eruewert d'Facility an eliminéiert <color=#0096FF>Foundation-Personal</color>.\nSchafft zesumme mat aneren <color=#008F1E>Chaos Insurgenten</color>.
-Eruewert d'Facility an eliminéiert <color=#0096FF>Foundation-Personal</color>.\nSchafft zesumme mat aneren <color=#008F1E>Chaos Insurgenten</color>.
-Eruewert d'Facility an eliminéiert <color=#0096FF>Foundation-Personal</color>.\nSchafft zesumme mat aneren <color=#008F1E>Chaos Insurgenten</color>.
+Eruewert d'Anlag an eliminéiert <color=#0096FF>Foundation-Personal</color>.\nSchafft zesumme mat aneren <color=#008F1E>Chaos Insurgenten</color>.
+Eruewert d'Anlag an eliminéiert <color=#0096FF>Foundation-Personal</color>.\nSchafft zesumme mat aneren <color=#008F1E>Chaos Insurgenten</color>.
+Eruewert d'Anlag an eliminéiert <color=#0096FF>Foundation-Personal</color>.\nSchafft zesumme mat aneren <color=#008F1E>Chaos Insurgenten</color>.
 -
 -
 Doud.All Mënschen ëmbréngen.\nFlucht verhënneren.\nKooperéiert mat aneren <color=#F00>SCPs.</color>
@@ -26,5 +26,5 @@ Doud.All Mënschen ëmbréngen.\nFlucht verhënneren.\nKooperéiert mat aneren <
 Doud.Alles ëmbréngen.\nZiler opspueren.\nKooperéiert mat Ärem <color=#FF59CA>Schwarm.</color>
 Doud.Alles ëmbréngen.\nZiler opspueren.\nKooperéiert mat Ärem <color=#FF59CA>Schwarm.</color>
 Doud.All Mënschen ëmbréngen.\nFlucht verhënneren.\nKooperéiert mat aneren <color=#F00>SCPs.</color>
-Hëlt d'Facility vun feindleche Kräften zréck.\nSchafft zesumme mat <color=#5B6370>Facility-Wuechten</color> an aneren <color=#0096FF>MTF-Operateuren</color>.
-Eruewert d'Facility an eliminéiert <color=#0096FF>Foundation-Personal</color>.\nSchafft zesumme mat aneren <color=#008F1E>Chaos Insurgenten</color>.
+Hëlt d'Anlag vun feindleche Kräften zréck.\nSchafft zesumme mat <color=#5B6370>Anlagwuechten</color> an aneren <color=#0096FF>MTF-Operateuren</color>.
+Eruewert d'Anlag an eliminéiert <color=#0096FF>Foundation-Personal</color>.\nSchafft zesumme mat aneren <color=#008F1E>Chaos Insurgenten</color>.

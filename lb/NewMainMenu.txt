@@ -1,101 +1,101 @@
-Neiegkeeten
-Server
-Astellungen
-Verloossen
-Social Media
-Internet
-Favoritten
-Offiziell
-Verlaf
-Frënn
-Server sichen
-Server erstellen
-Erëm bäitrieden
-Direkt verbannen
-Erfrëschen
-Eidel Spiller verstoppen
-Voll Spiller verstoppen
-Keng Whitelist
-Video
-Audio
-Kontrollen
-Spillmechanik
-Aneres
-Fënstermodus
-Exklusiv Vollbild
-Fënsterelose Vollbild
-Maximéiert Fënster
-Fënster
-V-Sync
-FPS-Limit
-Aus
-Texturqualitéit
-Decals
-Schatten
-Schattenopléisung
-Schatten Distanz
-Beweegungsonschärft
-Faarfkorrektur
-Anti-Aliasing
-Luucht-Rendering
-Haaptlautstäerkt
-Soundeffekter
-Stëmm-Chat
-Menümusik
-Interface-Lautstäerkt
-Menüthema
-Schnell Intro Fade
-Kapp-Bewegung
-Sprint um-/ausschalten
-Exakte HP-Wäerter weisen
-Rich Presence
-Ëffentlech Lobby
-Sich um-/ausschalten
-SCP-079 - Siichtmodus um-/ausschalten
-SCP-079 - Nobeaarbechtung
-Sprooch
-Haaptmenü
-Verbannen
-Zréck
-Dës Ännerung erfuerdert e Reload.\nMenü elo nei lueden?
-Jo
-Nee
-Wëllt Dir wierklech verloossen?
-Bildschirmopléisung
-IP verstoppen
-Wëllkomm zréck, {username}!
-Verdéngschter
-AUTHENTIFIZÉIEREN
-Verbanne mat zentrale Server...
+<color=#FF8E00>Neiegkeeten</color>
+<color=#43C6FF>Server</color>
+<color=#B58CFF>Astellungen</color>
+<color=#FF5C8A>Verloossen</color>
+<color=#55D6A7>Sozial Netzwierker</color>
+<color=#FFD166>Internet</color>
+<color=#63A4FF>Favoritten</color>
+<color=#FF78C8>Offiziell</color>
+<color=#8BD450>Verlaf</color>
+<color=#F28C45>Frënn</color>
+<color=#FF8E00>Server sichen</color>
+<color=#43C6FF>Server erstellen</color>
+<color=#B58CFF>Erëm bäitrieden</color>
+<color=#FF5C8A>Direkt verbannen</color>
+<color=#55D6A7>Erfrëschen</color>
+<color=#FFD166>Eidel Server verstoppen</color>
+<color=#63A4FF>Voll Server verstoppen</color>
+<color=#FF78C8>Keng Zouloossungslëscht</color>
+<color=#8BD450>Video</color>
+<color=#F28C45>Audio</color>
+<color=#FF8E00>Kontrollen</color>
+<color=#43C6FF>Spillmechanik</color>
+<color=#B58CFF>Aneres</color>
+<color=#FF5C8A>Fënstermodus</color>
+<color=#55D6A7>Exklusive Vollbildmodus</color>
+<color=#FFD166>Randlose Vollbildmodus</color>
+<color=#63A4FF>Maximéiert Fënster</color>
+<color=#FF78C8>Fënster</color>
+<color=#8BD450>V-Sync</color>
+<color=#F28C45>FPS-Limit</color>
+<color=#FF8E00>Aus</color>
+<color=#43C6FF>Texturqualitéit</color>
+<color=#B58CFF>Spuereffekter</color>
+<color=#FF5C8A>Schatten</color>
+<color=#55D6A7>Schattenopléisung</color>
+<color=#FFD166>Schattendistanz</color>
+<color=#63A4FF>Beweegungsonschärft</color>
+<color=#FF78C8>Faarfkorrektur</color>
+<color=#8BD450>Kantenglättung</color>
+<color=#F28C45>Liichtberechnung</color>
+<color=#FF8E00>Haaptlautstäerkt</color>
+<color=#43C6FF>Soundeffekter</color>
+<color=#B58CFF>Stëmm-Chat</color>
+<color=#FF5C8A>Menümusik</color>
+<color=#55D6A7>Interface-Lautstäerkt</color>
+<color=#FFD166>Menüthema</color>
+<color=#63A4FF>Séieren Intro-Iwwergang</color>
+<color=#FF78C8>Kappbeweegung</color>
+<color=#8BD450>Sprint un- oder ausschalten</color>
+<color=#F28C45>Genee Gesondheetswäerter weisen</color>
+<color=#FF8E00>Aktivitéitsstatus</color>
+<color=#43C6FF>Ëffentlech Lobby</color>
+<color=#B58CFF>Sich um-/ausschalten</color>
+<color=#FF5C8A>SCP-079 - Siichtmodus um-/ausschalten</color>
+<color=#55D6A7>SCP-079 - Nobeaarbechtung</color>
+<color=#FFD166>Sprooch</color>
+<color=#63A4FF>Haaptmenü</color>
+<color=#FF78C8>Verbannen</color>
+<color=#8BD450>Zréck</color>
+<color=#F28C45>Dës Ännerung erfuerdert e Reload.\nMenü elo nei lueden?</color>
+<color=#FF8E00>Jo</color>
+<color=#43C6FF>Nee</color>
+<color=#B58CFF>Wëlls du d’Spill wierklech verloossen?</color>
+<color=#FF5C8A>Bildschirmopléisung</color>
+<color=#55D6A7>IP verstoppen</color>
+<color=#FFD166>Wëllkomm zréck, {username}!</color>
+<color=#63A4FF>Verdéngschter</color>
+<color=#FF78C8>AUTHENTIFIZÉIERUNG</color>
+<color=#8BD450>Verbanne mat zentrale Server...</color>
 <color=green>Verbindung hiergestallt</color>
-<color=red>Verbindungsfeeler (Check Konsole fir Detailer)</color>
-<color=red>Steam-Authentifikatiounsfeeler (Check Konsole fir Detailer)</color>
-<color=red>Discord-Authentifikatiounsfeeler (Check Konsole fir Detailer)</color>
-Desaktivéiert
-Sekonnen
-Ragdoll-Cleanup-Zäit
-Steam-Profil weisen
-Erlaabt Spiller, Äert Steam-Profil ze kucken, andeems se op eng Ikone an der Spillerlëscht klicken.
-Net verfollegen (DNT)
-Verbannt dem Server, Är Daten (IP-Adress, Benotzer-ID, asw.) fir Zwecker ze benotzen, déi net mat der Serversécherheet ze dinn hunn.
-Grafik-API
-D'Erstelle vu Spillserver direkt aus dem Spill gëtt net méi ënnerstëtzt.\nEt gëtt aktuell 3 Weeër fir en SCP:SL-Server ze kreéieren:\n- Dir kënnt den SCP:SL-Dedicated-Server (Steam AppID: 996560) eroflueden an op Ärem Computer ausféieren\n- Dir kënnt en VPS oder en Dedicated Server vun engem Hosting-Provider lounen an do den SCP:SL-Dedicated-Server ausféieren\n- Dir kënnt en SCP:SL-Server vun engem Gamehosting-Provider lounen, deen SCP:SL ënnerstëtzt (z.B. Terabit)\n\nKlickt op d'Linken hei ënnendrënner fir méi Informatioun.\nDir kënnt eisen technesche Support (Link zu eisem Discord-Server fënnt Dir am Haaptmenü) ëm Hëllef froen.
-TROTZDEM ERSCHAFEN
-MÉI LIESSEN
-SERVER LOUNEN
-ABBRIECHEN
-Sekonn
-Fir eist Spill ze spillen!
-Taskbar bei Spawn blénken
-Ambient Occlusion
-Volumetresch Luuchten
-Bloom
-Ënnertitelen em Schalten
-Operationele Guide
-Server lounen
-<color="red>FOTOSENSIBILITÉITSWARNUNG: VIRUM SPILLEN LIESSEN!</color>\nEng ganz kleng Prozentsuel vu Persoune kann epiléptesch Ugrëffer erliewen, wann se u bestëmmte Liichtmuster oder blénkende Luuchten ausgesat sinn. D'Aussetzung u bestëmmte Musteren oder Hannergréng um Computerscreen oder wärend dem Spill vu Videospiller ka bei dëse Persounen en epilépteschen Ugrëff ausléisen. Bestëmmte Bedéngungen kënnen och bei Persounen ze virdrun net entdeckten epiléptesche Symptomer ausléisen, déi keng Geschicht vu virege Ugrëffer oder Epilepsie hunn.\nWann Dir oder een an Ärer Famill eng epiléptesch Bedéngung hutt, konsultéiert Ären Dokter virum Spillen. Wann Dir wärend engem Video- oder Computerspill ee vun de folgende Symptomer erliewt - Schwindel, verännert Visioun, Aen- oder Muskulzuckungen, Bewosstséinsverloscht, Desorientéierung, onfräiwëlleg Bewegungen oder Krampfunken - stoppt d'Benotzung SOFORT a konsultéiert Ären Dokter, ier Dir weiderspillt.
-DRÉCKT ALL KNÄPPE FIR WEIDER
-NET MÉI WEISEN
-Weider
-Server-Info
-Disconnect
+<color=red>Verbindungsfeeler (Kuck an der Konsole no Detailer)</color>
+<color=red>Steam-Authentifikatiounsfeeler (Kuck an der Konsole no Detailer)</color>
+<color=red>Discord-Authentifikatiounsfeeler (Kuck an der Konsole no Detailer)</color>
+<color=#FF5C8A>Desaktivéiert</color>
+<color=#55D6A7>Sekonnen</color>
+<color=#FFD166>Zäit bis Läiche verschwannen</color>
+<color=#63A4FF>Steam-Profil weisen</color>
+<color=#FF78C8>Erlaabt Spiller, Äert Steam-Profil ze kucken, andeems se op eng Ikone an der Spillerlëscht klicken.</color>
+<color=#8BD450>Net verfollegen (DNT)</color>
+<color=#F28C45>Verbannt dem Server, Är Daten (IP-Adress, Benotzer-ID, asw.) fir Zwecker ze benotzen, déi net mat der Serversécherheet ze dinn hunn.</color>
+<color=#FF8E00>Grafik-API</color>
+<color=#43C6FF>D'Erstelle vu Spillserver direkt aus dem Spill gëtt net méi ënnerstëtzt.\nEt gëtt aktuell 3 Weeër fir en SCP:SL-Server ze kreéieren:\n- Dir kënnt den SCP:SL-Dedicated-Server (Steam AppID: 996560) eroflueden an op Ärem Computer ausféieren\n- Dir kënnt en VPS oder en Dedicated Server vun engem Hosting-Provider lounen an do den SCP:SL-Dedicated-Server ausféieren\n- Dir kënnt en SCP:SL-Server vun engem Gamehosting-Provider lounen, deen SCP:SL ënnerstëtzt (z.B. Terabit)\n\nKlickt op d'Linken hei ënnendrënner fir méi Informatioun.\nDir kënnt eisen technesche Support (Link zu eisem Discord-Server fënnt Dir am Haaptmenü) ëm Hëllef froen.</color>
+<color=#B58CFF>TROTZDEM ERSCHAFEN</color>
+<color=#FF5C8A>MÉI LIESSEN</color>
+<color=#55D6A7>SERVER LOUNEN</color>
+<color=#FFD166>ABBRIECHEN</color>
+<color=#63A4FF>Sekonn</color>
+<color=#FF78C8>Fir eist Spill ze spillen!</color>
+<color=#8BD450>Taskleescht beim Spawne blénke loossen</color>
+<color=#F28C45>Ëmfeldverdonkelung</color>
+<color=#FF8E00>Volumetresch Luuchten</color>
+<color=#43C6FF>Liichtglanz</color>
+<color=#B58CFF>Ënnertitelen an- oder ausschalten</color>
+<color=#FF5C8A>Operatiounsguide</color>
+<color=#55D6A7>Server lounen</color>
+<color=#FF5C8A>WARNUNG VIRU LIICHTEMPFINDLECHKEET: VIRUM SPILLEN LIESEN!</color>\nEng ganz kleng Prozentsuel vu Persoune kann epiléptesch Ugrëffer erliewen, wann se u bestëmmte Liichtmuster oder blénkende Luuchten ausgesat sinn. D'Aussetzung u bestëmmte Musteren oder Hannergréng um Computerscreen oder wärend dem Spill vu Videospiller ka bei dëse Persounen en epilépteschen Ugrëff ausléisen. Bestëmmte Bedéngungen kënnen och bei Persounen ze virdrun net entdeckten epiléptesche Symptomer ausléisen, déi keng Geschicht vu virege Ugrëffer oder Epilepsie hunn.\nWann Dir oder een an Ärer Famill eng epiléptesch Bedéngung hutt, konsultéiert Ären Dokter virum Spillen. Wann Dir wärend engem Video- oder Computerspill ee vun de folgende Symptomer erliewt - Schwindel, verännert Visioun, Aen- oder Muskulzuckungen, Bewosstséinsverloscht, Desorientéierung, onfräiwëlleg Bewegungen oder Krampfunken - stoppt d'Benotzung SOFORT a konsultéiert Ären Dokter, ier Dir weiderspillt.
+<color=#63A4FF>DRÉCKT ALL KNÄPPE FIR WEIDER</color>
+<color=#FF78C8>NET MÉI WEISEN</color>
+<color=#8BD450>Weider</color>
+<color=#F28C45>Server-Info</color>
+<color=#FF8E00>Verbindung trennen</color>

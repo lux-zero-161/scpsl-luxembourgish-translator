@@ -4,6 +4,6 @@
 Ofgeschlossen Ziler erschéngen hei!
 <color=%achieverColor%>%achieverName%</color> huet <color=%victimColor%>%victimName%</color> ëmbruecht
 <color=%achieverColor%>%achieverName%</color> huet <color=%victimColor%>%victimName%</color> blesséiert
-<color=%achieverColor%>%achieverName%</color> ass aus der Facility geflücht
+<color=%achieverColor%>%achieverName%</color> ass aus der Anlag geflücht
 <color=%achieverColor%>%achieverName%</color> huet e <b>Generator</b> aktivéiert
 <color=%achieverColor%>%achieverName%</color> huet <color=red>%itemName%</color> opgeholl

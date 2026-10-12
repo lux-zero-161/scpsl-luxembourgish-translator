@@ -34,14 +34,14 @@ Fluchtzäit: [escape_minutes] Minutten an [escape_seconds] Sekonnen
 Waart [time] bis Dir [item] erëm benotze kënnt.
 Dréckt <color=yellow><b>F1</b></color> fir méi Informatioun iwwer Är Roll.
 Dir sidd gefesselt ginn.\n<size=40>Follegt Uerden oder freet Matspiller fir Hëllef.</size>
-Dir sidd vun der Nine-Tailed Fox erëm agefaange ginn.\nMat enger Geforen manner an der Facility konnten se sech verstäerken.
+Dir sidd vun der Nënteschwänzeger Fuuss erëm agefaange ginn.\nMat enger Geforen manner an der Anlag konnten se sech verstäerken.
 Dir sidd als Wëssenschaftler vun der Chaos Insurgency gefaange geholl ginn.\nSi konnten aus der Informatioun, déi Dir hinnen ginn hutt, e Virdeel zéien.
 RONN FÄERT A: <color=yellow>{0}</color>s
 RONNSTART ASS <color=#FF5050>PAUSÉIERT</color>
 ZIELSENS.-REDUKTIUN
 Dréckt [key] fir de Wurf ofzebriechen.
 ADS um-/ausschalten
-Spectateur-Chat muten
+Zuschauer-Chat muten
 Hannergrondgeräischer reduzéieren (recommandéiert)
 Automatesch (System-Standard)
 Kee Mikrofon erkannt!

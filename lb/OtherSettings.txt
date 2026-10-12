@@ -2,7 +2,7 @@ Server-seiteg Benotzerverfollegung
 Erlaben
 Ofleenen (DNT)
 Wann ofgeleent gëtt, verbannt et verifizéierte Serven, Är Daten (IP-Adress, Benotzer-ID, asw.) fir Zwecker ze benotzen, déi net mat der Serversécherheet ze dinn hunn. E puer server-spezifesch Funktiounen (wéi Leaderboarden, Levéesystemer an ähnleches) funktionnéieren dann net korrekt.
-Rich Presence
+Aktivitéitsstatus
 Erlaabt Plattformen (Steam an Discord) méi Informatioun iwwer Ären aktuellen In-Game-Status unzeweisen.
 Steam Lobby Visibilitéit
 Definéiert wéi aner Benotzer iwwer Äert Steam-Profil dem Server kënne bäitrieden.

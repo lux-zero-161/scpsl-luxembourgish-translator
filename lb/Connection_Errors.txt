@@ -16,7 +16,7 @@
 <size=80>WAART W.E.G.</size>\n<size=35>Tutorial gëtt gelueden...</size>
 <size=80>VERSIONSINKOMPATIBILITÉIT</size>\nÄr Spillversion ass anescht wéi déi vum Server\n(Client - [your]; Server - [server])
 <size=80>VERBONNE</size>\n<size=35>Den Niveau gëtt gelueden...</size>
-<size=35>D'Facility gëtt gelueden...</size>
+<size=35>D'Anlag gëtt gelueden...</size>
 <size=80>VERBINDUNG OFGESCHLOON</size>\nOp dem Server ass en onspezifizéierte Feeler opgetrueden.
 <size=80>VERBINDUNG OFGESCHLOON</size>\nDëse Server verlaangt Authentifikatioun duerch zentral Server.
 <size=80>VERBINDUNG OFGESCHLOON</size>\nDir sidd op dësem Server net wäitgelëscht.

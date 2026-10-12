@@ -1,7 +1,7 @@
 Keen
 SCP-173
 Class-D
-Spectateur
+Zuschauer
 SCP-106
 NTF Specialist
 SCP-049
@@ -14,13 +14,13 @@ NTF Sergeanten
 NTF Offizéier
 NTF Private
 Tutorial
-Facility-Wuecht
+Anlagwuecht
 SCP-939
 Personaliséiert Roll
 Chaos Gewiéermänn
 Chaos Marauder
 Chaos Repressor
-Overwatch
+Iwwerwaachung
 Filmmaacher
 SCP-3114
 Zerstéiert
